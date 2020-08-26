@@ -1,0 +1,1006 @@
+src,keyword,instance,sentence,instance_idx
+ml_subreddit,flow,flow,"Granted there was some stuff I glanced over in the first reading like bipartite graph algorithms and getting an idea of max flow, but the rest of the class was cut and dry simple.",22
+ml_subreddit,flow,flows,* Look at the way the data flows on the plots.,7
+ml_subreddit,flow,flow,"** You *can* regenerate a new tmp/log files by creating a flow from scratch using 'new' data sources, but good luck recovering your existing saved steps from Prep when it's in the endless-loop state.",14
+ml_subreddit,flow,flow,I think the TDI staff is excellent but there are numerous places where they could improve the Fellowship's overall daily flow as well as make it a bit more personal (especially for Online folks).,21
+ml_subreddit,flow,Flow,"The “Normalizing Flow” (https://arxiv.org/pdf/1505.05770.pdf) paper even involves physics (Langevin Flow, stochastic differential equation) … each term seems to require a semester-long course to master.",3
+ml_subreddit,flow,Flow,"The “Normalizing Flow” (https://arxiv.org/pdf/1505.05770.pdf) paper even involves physics (Langevin Flow, stochastic differential equation) … each term seems to require a semester-long course to master.",16
+ml_subreddit,flow,flow,"* in the ideal world, I can query an **oracle** with “Langevin flow”.",18
+ml_subreddit,flow,flowing,I’m sure the growing profit margins and money that’s flowing in from all our work is more than satisfactory for the company leadership / investors to not have any issues with all this.,13
+ml_subreddit,flow,flows,"We are planning to grow this with various interesting topics including, optimisation, deep RL, probabilistic modelling, normalising flows, deep learning, and many others.",21
+ml_subreddit,flow,flow,"&#x200B;
+
+**Computer Vision**
+
+* [UW The Ancient Secrets of CV](https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p) (2018): Created by the first author of YOLO, this is likely the most well-rounded computer vision course as it not only teaches you the deep learning side of CV but  ""older"" methods like SIFT and optical flow as well.",68
+ml_subreddit,flow,flow,"'s 2016 object rotation by appearance flow paper](https://arxiv.org/abs/1605.03557), which I use to rotate the face.",6
+ml_subreddit,flow,Flow,"Here are some interesting papers selected for the oral sessions:
+
+* [End to End Object Detection with Transformers](https://crossminds.ai/video/5f3b291e96cfcc9d075e35a0/) *(Facebook AI)*
+* [In-Home Daily Life Captioning Using Radio Signals](https://crossminds.ai/video/5f3c191775714ac3c63b0d63/) *(MIT CSAIL)*
+* [What Matters in Unsupervised Optical Flow](https://crossminds.ai/video/5f3b29af96cfcc9d075e35e0/) *(Google Research)*
+* [Diffraction Line Imaging](https://crossminds.ai/video/5f3b62bc75714ac3c63b0ccb/) (*CMU Robotics Institue*)
+* [MIRNet: Learning Enriched Features for Real Image Restoration and Enhancement](https://crossminds.ai/video/5f3b28e396cfcc9d075e357f/) (*IIAI, MBZUAI, etc.",60
+ml_subreddit,flow,Flows,"If you're interested in Bosch and what we're doing in AI and ML, check out [https://www.bosch-ai.com/](https://www.bosch-ai.com/)
+
+Our publications on ICML 2019 are
+
+* Anomaly Detection With Multiple-Hypotheses Predictions  -  Duc Tam Nguyen, Zhongyu Lou, Michael Klar, Thomas Brox
+* Recurrent Kalman Networks: Factorized Inference in High-Dimensional Deep Feature Spaces  -  Philipp Becker, Harit Pandya, Gregor Gebhardt, Cheng  Zhao, C. James  Taylor, Gerhard Neumann
+* Learning Hawkes Processes Under Synchronization Noise  -  William Trouleau, Jalal Etesami, Matthias Grossglauser, Negar Kiyavash, Patrick Thiran
+* Certified Adversarial Robustness via Randomized Smoothing  -  Jeremy Cohen, Elan Rosenfeld, Zico Kolter
+* SATNet: Bridging deep learning and logical reasoning using a differentiable satisfiability solver  -  Po-Wei Wang, Priya Donti, Bryan Wilder, Zico Kolter
+* Projections for Approximate Policy Iteration Algorithms  -  Riad Akrour, Joni Pajarinen, Jan Peters, Gerhard Neumann
+* Emerging Convolutions for Generative Normalizing Flows  -  Emiel Hoogeboom, Rianne Van den Berg, Max Welling
+* Trajectory-Based Off-Policy Deep Reinforcement Learning  -  Andreas Doerr, Michael Volpp, Marc Toussaint, Sebastian Trimpe, Christian Daniel
+* GOODE: A Gaussian Off-The-Shelf Ordinary Differential Equation Solver  -  David John, Vincent Heuveline, Michael Schober
+* Wasserstein Adversarial Examples via Projected Sinkhorn Iterations  -  Eric Wong, Frank Schmidt, Zico Kolter
+* Adversarial camera stickers: A physical camera-based attack on deep learning systems  -  Juncheng Li, Frank Schmidt, Zico Kolter
+
+# Disclaimer
+
+Cleaning the website data, in particular the affiliations is a tedious, manual process, since many different and not necessarily unambiguous notations and abbreviations exist for many institutes.",173
+ml_subreddit,flow,Flow,"I would like to know if you have a favourite of the ones below or another
+
+&#x200B;
+
+SACRED [https://github.com/IDSIA/sacred](https://github.com/IDSIA/sacred)
+
+Weights and Biases[https://www.wandb.com/](https://www.wandb.com/)
+
+ML Flow [https://mlflow.org/](https://mlflow.org/)
+
+comet ml [https://www.comet.ml/](https://www.comet.ml/)
+
+Neptune-ml [https://neptune.ml/](https://neptune.ml/)
+
+Studio[https://github.com/studioml/studio](https://github.com/studioml/studio)
+
+Datmo[https://github.com/datmo/datmo](https://github.com/datmo/datmo)
+
+Lore[https://github.com/instacart/lore](https://github.com/instacart/lore)
+
+FORGE [https://github.com/akosiorek/forge](https://github.com/akosiorek/forge)
+
+Sumatra [https://pythonhosted.org/Sumatra/](https://pythonhosted.org/Sumatra/)
+
+RandOpt[https://github.com/seba-1511/randopt](https://github.com/seba-1511/randopt)
+
+Pachyderm[https://github.com/pachyderm/pachyderm](https://github.com/pachyderm/pachyderm)
+
+feature Forge[https://github.com/machinalis/featureforge](https://github.com/machinalis/featureforge)
+
+ModelChimp[https://github.com/ModelChimp/modelchimp](https://github.com/ModelChimp/modelchimp)
+
+PolyAxon[https://github.com/polyaxon/polyaxon](https://github.com/polyaxon/polyaxon)
+
+Kubeflow[https://github.com/kubeflow/kubeflow](https://github.com/kubeflow/kubeflow)
+
+Optuna [https://optuna.readthedocs.io/en/stable/](https://optuna.readthedocs.io/en/stable/)
+
+Valohai [https://valohai.com/](https://valohai.com/)
+
+&#x200B;
+
+ps: This maybe a repost but it is worth revisiting this topic since new frameworks are out.",45
+ml_subreddit,flow,Flows,"Finally, what are Continuous Normalizing Flows derived in the paper.",6
+ml_subreddit,flow,Flows,"Euler, RK2 and RK4
+* jupyter notebooks which show how to implement black-box ODE solver, integrate NN with it, how to use adjoint method to optimize bullet trajectory etc
+* re-implementation of Continuous Normalizing Flows:
+
+*Processing img pjoslv7xrto21...*
+
+&#x200B;.Not sure if this is too meta for /r/MachineLearning, but /u/badmephisto (Andrej Karpathy) from OpenAI just posted trained weights for a model at a users request in less than 3 hours:
+
+https://www.reddit.com/r/MachineLearning/comments/5ivho9/p_tensorflow_implementation_of_pixelcnn_openai/dbblpzl/?context=10000
+
+Just wanted to say the amount of openness and collaboration from this community is fantastic..Hi r/MachineLearning!",37
+ml_subreddit,flow,flow,"With PyWarm, you can put all network data flow logic in the `forward()` method of your model, without the need to define children modules in the `__init__()` method and then call it again in the `forward()`.",9
+ml_subreddit,flow,flow,"I’ve been surfing YouTube and found all these videos of people using tensor flow and then some creating neural networks, using sigmoid functions and a bunch of things.",15
+ml_subreddit,flow,flow,"**Tensor flow Fundamentals :**
+   1.",3
+ml_subreddit,flow,flow,Thanks..Automatic text summarisation is the task of shortening the given piece of text yet retaining the main crux and flow.,21
+ml_subreddit,flow,flow,Have you created any pipelines for data flow?.Is it worthy to study optimization technique for deep learning nowaday?,7
+ml_subreddit,flow,flow,"&#x200B;
+
+[Here's an example of the type of legislative text](http://www.bclaws.ca/civix/document/id/complete/statreg/96244_01#section43) I need to turn into a visually-understood process flow:.",31
+ml_subreddit,flow,Flow,I've seen this used in Google Analytics in their Behavior Flow.,11
+ml_subreddit,flow,flow,"Some of the themes I'll cover are:
+
+* How to avoid ""Choose Your Own Adventure"" style code, which depends on flow control instead of data structures.",25
+ml_subreddit,flow,flow,As i learn about webscraping instead of building(copying) the program my tutor was making i instead decided to create a scraper on a different website.Theres a site called polar flow where running data from sport watches are stored.,32
+ml_subreddit,flow,flow,"My only concern was getting the output I wanted with minimum investment, and being able to describe the control flow steps to my son.",20
+ml_subreddit,flow,flow,"When i'm coding, I get into a flow state and I don't feel anxious, don't think about suicide, and don't feel the need to drink.",9
+ml_subreddit,flow,flow,"## Pick the topic you're passionate about
+
+To achieve what suppose to be ""impossible"" at the beginning, you need something the scientists call ""the flow"".",30
+ml_subreddit,flow,flow,"** Once you get into the flow, stay there as long as you can.",7
+ml_subreddit,flow,flow,I am sure there are other similar tools (not necessarily about code flow visualization) that could benefit beginners and intermediate programmers alike.,13
+ml_subreddit,flow,flow,"The feeling of learning, the focused and productive flow state, satisfaction of building something and frequent feelings of elation with each little problem solved during the coding process, were all packed into a 3 hour coding session today, from conception of the idea to completion and implementation.",9
+ml_subreddit,flow,flow,"If you build a flow which assumes a 100% success rate, you _will_ have to re-write a lot of code later when you discover such rate doesn't exist in the real world.",4
+ml_subreddit,flow,flow,"Is it better to follow my current flow and refresh myself with google examples when I'm stuck, or get pro on one topic then move next?.I finally got my act together and put together my first working Python program.",7
+ml_subreddit,flow,flow,"Nothing sucks like opening a messy, comment-free script and having to painstakingly reverse engineer it line-by-line just to understand the signal flow.",22
+ml_subreddit,flow,flow,Are there any good resources for learning Data Structures and Algorithms ?It is becoming stupid that I could solve the problem linearly but couldn't do it in time for larger input cases and its frustrating..I started this course yesterday and got through section 1: python basics then started section 2 flow control.,55
+ml_subreddit,flow,flow,"Please ask questions and upvote on Kaggle :)
+
+https://www.kaggle.com/daveianhickey/how-to-folium-for-maps-heatmaps-time-data/
+
+You can also click through to the original data set, it has traffic data on 1.6million accidents and traffic flow.",32
+ml_subreddit,flow,flow,"I've come along with this useful exercises for beginners like me, and I believe it could be useful for other people, so here is the link: [http://www.ling.gu.se/~lager/python_exercises.html](http://www.ling.gu.se/~lager/python_exercises.html)..I'm going through Codecademy's Python 3 course (pro with exercises, projects etc) and I've diligently gone through syntax control flow functions lists and now i'm at the end of loops on the coding challenges and It seems like i'm not able to complete any of the tasks without looking at the solution.",66
+ml_subreddit,flow,flow,"**
+
+We expect you to know the basics about programming (basic control flow structures; if, for, while, etc).",14
+ml_subreddit,flow,flow,"Also, does anyone know how to get keras to flow from directory for images?",10
+ml_subreddit,flow,flow,How should my flow look like for optimal productivity?,3
+ml_subreddit,flow,flow,"A potential flow would look like: Use SQL to grab a .csv of a subset of some interesting dataset, make a notebook for exploration.",2
+ml_subreddit,flow,flow,"An implementation that uses Python's threading is outlined below:
+
+```py
+
+class A:
+    # This method is spawned using Python's threading library
+    def run_queue(self, input_queue, output_queue):
+        while True:
+            img = input_queue.get()
+            start_time = time.time()
+            output = self.run(img)  
+            time_diff = time.time() - start_time # Supposedly 100 ms for class A, and 50 ms for class B
+
+
+# in main program flow:            
+# Assume that a_input_queue and a_output_queue are tied to an instance of class A
+# And similar for class B
+
+img = cap.read()[1]
+a_input_queue.put(img)
+b_input_queue.put(img)
+
+start_time = time.time()
+a_output = a_output_queue.get()  # Should take 100 ms
+b_output = b_output_queue.get()  # B.run() should take 50 ms, but since it started at the same time as A.run(), this get() should effectively return immediately
+time_diff = time.time() - start_time  # Should theoretically be 100 ms
+```
+So theoretically, we should only be bottlenecked by A, and end up with 100 ms for the whole system.",81
+ml_subreddit,flow,flow,I'm a PhD student in hydraulics and I'll use signal processing to detect turbulence in a flow.,18
+ml_subreddit,flow,flow,"Thank you!.In many cases, when a neural network is evaluated, data will flow from the input to the output in a single pass.",16
+ml_subreddit,flow,flow,"I'd like to have a web map, which shows the flow rate between the different teams.",12
+ml_subreddit,flow,flow,"204 308 343 402 455 455 520 520 526 526 529 530 533 534 535 540 540 545 600 611 615 615 629 638 640 641 650 705 707 715 717 718 720 721 729 730 733 749 752 752 752 755 755 808 817 819 823 829 830 831 835 842 843 850 851 852 858 902 906 906 907 907 909 911 911 914 915 918 922 924 927 928 928 930 931 935 941 946 949 958 1000 1002 1005 1008 1011 1012 1015 1015 1020 1024 1024 1030 1039 1126 1608 1642 1758
+    
+
+.Hi,
+I have 20 time series data sets from some temperature, pressure and flow sensors.",112
+ml_subreddit,flow,flow,"And see what the flow would look like?..Super vague title so I'll get right to the heart of it:
+
+There's a somewhat popular game called [Warframe](https://warframe.com/) which I've taken an interest in and I'm currently working on an article which goes over the update history/cycle of the game.",4
+ml_subreddit,flow,flows,Thank you!.I'm looking for a diagram to show flows between stages with the additional context of how much input flow each stage *could* accommodate.,11
+ml_subreddit,flow,flow,Thank you!.I'm looking for a diagram to show flows between stages with the additional context of how much input flow each stage *could* accommodate.,22
+ml_subreddit,flow,flows,I recently stumbled over sankey diagrams in r/dataisbeautiful and used some of the referenced web tools to visualize ticket flows in IT service management.,19
+ml_subreddit,flow,Flow,"[Getting Into A Causal Flow](https://www.causalflows.com/introduction/)
+
+I've posted a variety of articles covering the expanse of causal inference literature so be sure to check out the full site if you're interested in learning more!.Hi everyone, I hope you're all well.",5
+ml_subreddit,flow,flows,"I have some basic experience writing stored procedures for ETL flows and optimizing queries by analyzing Execution Plans, but aside from Querying, that's largely the extent of my Database experience.",10
+ml_subreddit,flow,flow,"&#x200B;
+
+Day 3 will be about Definitions (Clustered, Unique, NonClustered indices) for proper physical storage (all tables have no clustered index right now), Data Stewardship and Change Management (Views for controlling data flow, procedures -insert/update/delete- and functions for consistent access of data).",43
+ml_subreddit,flow,flow,Day 3 (4+- hours) has produced all of the views and Insert/Update/Delete procedures that I need to be able to effectively implement a Change Management flow for the data.,27
+ml_subreddit,flow,Flow,One of the tools that was beginning to be used heavily was Microsoft Flow.,13
+ml_subreddit,flow,Flow,Flow and Azure Data Factory were beginning to take over SSIS and everything from Sharepoint lists to files off of OneDrive was ETL'd through Flow.,0
+ml_subreddit,flow,Flow,Flow and Azure Data Factory were beginning to take over SSIS and everything from Sharepoint lists to files off of OneDrive was ETL'd through Flow.,25
+ml_subreddit,flow,Flow,Wanting to hear others opinions on Microsoft Flow and if you use it over/in tandem with SSIS.,7
+ml_subreddit,flow,Flow,"Overall, Microsoft Flow seems to be more adept with Microsoft's newer offerings.",3
+ml_subreddit,flow,flow,Here is a diagram of how I imagine the [process flow](https://i.imgur.com/HH7DWpa.png).,11
+ml_subreddit,flow,flow,Is the flow generally OK?,2
+ml_subreddit,flow,flowing,"It that edition:
+
+ \-Meta-Learning to Generate RL Models 
+
+\-Self-Supervised Learning for Image Classification 
+
+\-Data-Efficient RL -
+
+\-LinkedIn’s LIquid -
+
+\-TensorFlow Lite XNNPACK Integration
+
+\-and recent investment money flowing into AI startups
+
+Hope you'll find it useful
+
+[https://thesequence.substack.com/p/thesequence-scope-the-challenge-of](https://thesequence.substack.com/p/thesequence-scope-the-challenge-of)......Google recently introduce Flax — a neural network library for JAX that is designed for flexibility.",30
+ml_subreddit,flow,flows,I'm thinking of making it into a DAG to guarantee that input flows through the graph and to the output.,13
+ml_subreddit,flow,flow,**UPDATE ON Me 6/24/2019 6:30pm**  I got banned because of the traffic flow and how many up/down votes this sub got in a variable amount of time.,16
+ml_subreddit,flow,flow,"**Tensor flow Fundamentals :**
+   1.",3
+yelp,flow,flowing,Arti was fabulous and his designs spoke to my flair for bright colors and soft flowing feminine fabrics.,15
+yelp,flow,flows,The water flows to some degree most if the year although in the summer months it slows to a trickle.,2
+yelp,flow,flows,It flows year round.,1
+yelp,flow,flow,The traffic flow in the Palms is always fun to watch.,2
+yelp,flow,flows,It's far enough off the Mill Avenue strip that the douchebaggery of those bars rarely flows over into Casey's.,16
+yelp,flow,flowing,I didn't find the acrobatics flowing smoothly while suspended above.,6
+yelp,flow,flowing,The ideas and juices start flowing.,5
+yelp,flow,flows,"The service is great, the coffee flows freely, and the food is on point.",7
+yelp,flow,flow,The cafe area was bustling and there was a consistent flow of people in line.,10
+yelp,flow,flowing,Sugar Creek had the beer flowing and the DJ was pumping out N'Sync Christmas Jams.,5
+yelp,flow,Flow,There is also a great Power Flow yoga class offered on Wednesdays (included with the price of admission).,6
+yelp,flow,flowed,It was busy but the lines weren't bad and traffic flowed pretty well.,11
+yelp,flow,flow,"It's definitely not the same level of service I have been receiving at Kona Grill the last 4 years, and I most definitely will not recommend this new location for at least another 6-12 months until they get some efficient work flow established.",43
+yelp,flow,flowing,Don't expect a flowing storyline though.,4
+yelp,flow,flow,The lines move at a constant flow and there's a few nicely decorated houses that's sure to grab your attention.,6
+yelp,flow,flowing,"The atmosphere is casual, with an open view of the large woks in the kitchen, with the water flowing over the cooking area to remove all the grease and tidbits spilled in the stir-fry cooking process, just like a Chinatown kitchen.",20
+yelp,flow,flowing,"This restaurant was opened in 2007, in the height of the Vegas boom times and housing bubble, when pricesof everything was going up and up, and money was flowing easily.",31
+yelp,flow,Flow,"As I sit a the gate 3, Terminal 2, UA1507 PHX-SFO in the plane with a 90 minute ""SFO Flow Control"" and ""Mechanical problem of rivets missing on the engine cone?!""",22
+yelp,flow,flow,"You can tell the owners put a lot of thought into the design, decor, service, menu, and flow of the restaurant.",21
+yelp,flow,flow,We went for lunch and it had a steady flow of customers on Friday.,9
+yelp,flow,flow,*My only complain of the night was perhaps the flow of the courses.,10
+yelp,flow,flowing,"The drinks are always flowing, and the food is always good!",4
+yelp,flow,flow,"At the pool we has piña colada, lava flow, and fresh berry mojito.",9
+yelp,flow,flowing,"Too my surprise all the bars, including their main bar, had .25 video blackjack and the free drinks started flowing at .25 a hand.",21
+yelp,flow,flowing,"Still, my black bean burrito was good and they kept the chips and salsa flowing and split the checks nicely.",15
+yelp,flow,flow,"Wednesday night, and there's a constant flow or traffic and the 8 or so picnic tables they have are constantly full!",8
+yelp,flow,flow,And 3 stars for having long rows with no breaks in them for traffic flow.,14
+yelp,flow,flowed,The class itself was challenging and flowed nicely.,6
+yelp,flow,flowing,"Thanks to Michele M. We were seated in the VIP section- there was an open bar, lunch, dinner, free flowing snacks.",22
+yelp,flow,flowing,A photographer that can handle masses of Yelpers indulging themselves on copious amounts of free flowing alcohol tells me whaat a greeeaaaattt guy he is!,15
+yelp,flow,flowing,There was a great atmosphere with fresh air flowing through the restaurant and an upbeat environment.,8
+yelp,flow,flow,Will wax flow out of my ears?,2
+yelp,flow,flow,"I find the restroom, get a stall, and carefully manage the lava flow to avoid a catastrophic eruption that may cause a toilet bowl Tsunami!",14
+yelp,flow,flowing,"Decor
+Tuna Tartare and Crispy Fried Calamari appetizers
+Spaghetti with Kobe Meatball dinner
+Banana Bread Brittle dessert
+Helpful\/Witty Staff
+The flowing WINE
+
+Things I did not love about this place...",20
+yelp,flow,flowing,Thank goodness the waiter kept the water flowing!,7
+yelp,flow,flow,"First, I noticed that the small kennels don't offer a lot of air flow were extremely warm.",15
+yelp,flow,flow,"The owner, I assume, must have a steady flow of regulars that keep her busy as she didn't care and even began to raise her voice claiming I  should have explained more?!",10
+yelp,flow,flow,"Mediocre - best thing that happened to them was Richardson's fire, perhaps they can get over flow from Dick's while Rich Brown rebuilds.",18
+yelp,flow,flowing,"Great people watching, the music hits HARD here with the hottest DJ's coming through and once the drinks get flowing you are sure to have some of the most unforgettable memories that you can't quite remember... : )",21
+yelp,flow,flow,"The martinis flow, the Sinatra music plays... it is like a time warp.",2
+yelp,flow,flows,"However, it's also not completely empty, which always makes me wary (few customers = fish sitting on the counter longer) 
+3 - Service: waiters certainly don't grovel at your feet, but they are quick, food is quick, and the tea continuously flows.",51
+yelp,flow,flow,"It's not anything fantastic or special, but there is high turnaround and a steady flow of customers, so one can probably assume the fish is relatively fresh.",16
+yelp,flow,flow,Staff aren't able to handle the flow of guests.,7
+yelp,flow,flow,Go against the flow my friends.,3
+yelp,flow,flowing,"Pretty soon, the wine started flowing and then more friends came.",6
+yelp,flow,flowing,"The food is great, cocktails are flowing, and the view of the bellagio fountains are spectacular!",7
+yelp,flow,flowing,Free flowing champagne Perrier is the cherry on the cake.,1
+yelp,flow,flowing,"Champagne kept flowing, table kept clean...he was great!",2
+yelp,flow,flow,Isn't the point - at least in part - of reservations is to regulate the flow of orders so it's reasonable and all customers will be served?,16
+yelp,flow,flow,The hotel itself is quite crowded and traffic flow through the casino often suffers from obnoxious souls who never seemed to learn the rules of walking down an aisle or corridor...,8
+yelp,flow,flow,"I've done the yin, power, and flow classes and all were excellent.",9
+yelp,flow,flow,"I've been to bootcamp, boxing bootcamp, TRX, kettlebells, battleropes, Yin, their proprietary flow class (level 1 and 2), the flow\/vinyasa class, barre, and pilates.",19
+yelp,flow,flow,The lit candles in the studio created a very relaxing environment during the challenging yoga flow.,15
+yelp,flow,flowed,The line for drive thru was tragically long here on a Friday night but it flowed incredibly fast!,15
+yelp,flow,flow,"I receive a quote from a pre-established price sheet (no hemming and hawing and ""well, you see, the moon is in Saturn now and that'll affect the water flow, so yeah, it'll be this ridiculously-high-price to address your fairly simple issue""), and then he gets to work.",33
+yelp,flow,flows,"Saturdays will be the most crowded, but will still be manageable in size, as the mob ebbs and flows between midway and video games.",20
+yelp,flow,flow,"I hate to be the rabid cur of dissent in this love fest, but I can no longer fake it and go with the flow.",25
+yelp,flow,flow,"Several orders went in around the same time as ours, so it was a bit unclear whether we should wait near the grill (this is where the molcajete bowls are with the salsas) or sit down and wait at the tables at the back, or whether we should pay when we ordered or wait until after... just go with the flow and I promise it will all work out!!",65
+yelp,flow,flowing,Drinks are definitely flowing here from wine and cocktails to the $10 BUCKET OF BEERS!!,3
+yelp,flow,flow,The flow of all the courses made sense: from light to heavy.,1
+yelp,flow,flow,"-Arancini Margherita (stuffed risotto rice balls with pickled piri piri chillies, mozarella, spicy arrabbiata sauce & Parmigiano Reggiano) - $8.50
+The arancini had a thin, crackling-crisp coating that just barely contained the flow of rice suspended in a creamy sauce.",38
+yelp,flow,flow,"I love the Sumits flow, the energy and their locations.",4
+yelp,flow,flowed,"As we read through the menu, our taste buds blossomed and our digestive juices flowed like Pavlov's dog.",15
+yelp,flow,flow,"Theres no flow from line you wait in to order, to soda machines, to trying to gind a seat..
+ Its terrible.",2
+yelp,flow,flow,Poor traffic flow - benefits stores more than customers.,2
+yelp,flow,flow,"I must admit I am still a little puzzled by the flow of the place, exactly where to place my order and where to pay.",11
+yelp,flow,flow,"Been here four times now and I see I am not alone, the flow is difficult to figure out; where to go, and when.",14
+yelp,flow,flow,Very disorganized flow.,2
+yelp,flow,flows,"This is one of those lots that's laid out on a computer, so traffic only flows well in theory, be patient and be prepared to park further away and walk.",17
+yelp,flow,flow,"I would like to see them move to another mall where parking and traffic flow are better, like Scottsdale 101.",14
+yelp,flow,flowing,And when the booze is flowing heavy the place gets loud.,5
+yelp,flow,flow,Let the booze and the money flow!,6
+yelp,flow,flowing,"As I am walking through, I see a hose with water flowing.",12
+yelp,flow,flowed,"The guide Zach, was such a pro at making sure the evening flowed smoothly.",13
+yelp,flow,Flow,"I highly recommend that if you are looking for a studio to practice at that you try Yoga Unlimited... with the first class free you have nothing to lose, however, some calories =)  They have a variety of classes from Beginner to Advanced... my fav so far: Baptiste Power Flow w Susan!",55
+yelp,flow,flow,Was in and out with a new muffler tip and a flow master exhaust.,11
+yelp,flow,flow,It was the air flow sensor.,4
+yelp,flow,flowing,Even when showing a picture with water flowing from the inner door panel into the cabin (https:\/\/www.dropbox.com\/s\/2srm8q35v9kf5nh\/BMW_Rear_Door.jpg) he still claimed that this repair has nothing to do with any sort of vapor\/water barrier or related water leak problems.,7
+yelp,flow,flow,"You can hang and do wall yoga, or do an early morning (and I mean 5:30am) yoga class, a challenging flow different from anything you have tried, a gentle yoga class; there is something for everyone.",24
+yelp,flow,flow,Sounds crazy but I noticed a market improvement in my urine flow.,11
+yelp,flow,flows,"That ""sunny"" disposition flows right through the entire business!",5
+yelp,flow,flow,The flow rate\/how frozen the yogurt is varies from machine to machine.,1
+yelp,flow,flow,The instructor left three times during the first class I attended when the students were doing their own flow.,18
+yelp,flow,flow,"This location is still new, so I suspect they will get the flow of service and food execution down pat.",13
+yelp,flow,flows,"Pop, country and even soft rock just flows and makes the Taco taste even better.",8
+yelp,flow,flow,"I find the service counter a little odd, it doesn't flow very well.",12
+yelp,flow,flowing,"Cheap drinks, good conversation and the beer keeps flowing.",9
+yelp,flow,flowed,"I heard everything from Adelle to the Rolling Stones, but everything flowed together at a volume where you could hear the lyrics, without having to shout to the person next to you.",12
+yelp,flow,flowing,"We all sat down, and the margaritas started flowing.",9
+yelp,flow,flowing,The way they have it set up is very flowing and organized which aids in the customers being about to relax.,9
+yelp,flow,flow,I always had very good experiences in the hot AM flow classes with Erica and Christina.,10
+yelp,flow,flowing,We kept the length and added long flowing layers.,7
+yelp,flow,flow,First off- you can either take a class and paint by instruction of a teacher OR they have space dedicated to letting your creative juices flow and paint whatever you want.,25
+yelp,flow,flowing,The water ran in to the guest room and beyond instead of flowing out the front of the garage.,12
+yelp,flow,flow,"It really seems to help relax my mind, which is exactly what I'm looking for in a slow flow or deep stretch class.",20
+yelp,flow,flow,"The sequence is a nice flow, but hot yoga is so stupid.",5
+yelp,flow,flow,"If that wasn't bad enough there were about 20 dogs crammed into a space no bigger than a single car garage, with an over flow of dogs that came charging the baby gate that blocks the front entrance, of course the baby gate fell over and the owner just looks over and says oh that happens all the time!",26
+yelp,flow,flowed,"Archaeologists called these Pueblos the Salados (Salt River, which flowed through the valley of their homeland).",11
+yelp,flow,flow,The store is clean and has flow.,6
+yelp,flow,flowing,Enchiladas should be flowing with sauce and meat and cheese.,3
+yelp,flow,flow,Denny meets you at the door and he keeps the production flow going.,11
+yelp,flow,flowing,There must be drug money flowing to keep this place afloat.,5
+yelp,flow,flow,"Out of all the food places in the food court, Chipotle is the one that's always busy and there is a continuous flow of customers.",24
+yelp,flow,flow,There is a constant flow of customers.,4
+yelp,flow,flow,"There were not enough seating for the huge flow of customers, and the people waiting in line to get seats were standing close to our table watching us eat - awkward!",8
+yelp,flow,flowed,The good vibes flowed from the first phone call I made.,3
+yelp,flow,flow,"The décor of the establishment was hurting, there was art on the wall that didn't flow and did not belong.",17
+yelp,flow,flow,"I can't stress enough how this establishment does not flow with all that Vieux-Montreal should be, there is no sense of history, architecture, preservation or substance in it.",10
+yelp,flow,flow,The medium temperature selection resulted in a water flow akin to a trickle.,8
+yelp,flow,flowing,However once at the buffet I found it not logically flowing once at the buffet.,10
+yelp,flow,flow,"It does not flow logically, which would be flowing from appetizers and papadums, to rice, noodles, and breads then veggies and meats.",3
+yelp,flow,flowing,"It does not flow logically, which would be flowing from appetizers and papadums, to rice, noodles, and breads then veggies and meats.",9
+yelp,flow,flow,"if you got the cash flow, definitely stay here.",5
+yelp,flow,flow,There was no thought put into making it flow.,8
+yelp,flow,flowing,"On the most recent visit toward the end of November 2012, I was surprised to find water still flowing.",19
+yelp,flow,flow,The layout of the store is nice and the flow of ordering and pickup ensure that a traffic jam inside doesn't happen.,9
+yelp,flow,flow,I don't know what it is about other best buys but this one just seems to flow better.,17
+yelp,flow,flows,Jersey Boys is incredibly well written and the narrative flows as smoothly as the voices of the Four Seasons themselves.,9
+yelp,flow,flow,"I'm talking about beer that isn't quite ready for the public, but they are willing to let some flow directly from the tanks.",21
+yelp,flow,flow,"With the constant flow of people going up and down that stairwell, it felt like we were still in line for something.",3
+yelp,flow,flow,It was so many people doing so many things at once and not enough people sticking to one task in order to make everything flow smoothly.,24
+yelp,flow,flow,"Vegas is hot, I need a constant flow of water at a restaurant!",8
+yelp,flow,flow,"Arrive at Sun Buggy around 12:40 to total disorganization, no flow, little communication.",11
+yelp,flow,flows,"As for dessert\/sweet dimsum, I really enjoyed the steamed bun custard (流沙飽), the paste actually flows into the mouth as you bite on it, so be aware of it getting to your clothes!",19
+yelp,flow,flow,"It's really cool to have events at the museum, however, the set up for the Brazilfest, just didn't flow.",23
+yelp,flow,flow,I know it's been a long time but this is the first time I have ever been to the Cheesecake Factory This place had a very nice ambiance and had a steady flow Had the steak tacos was very enjoyable And the portion my bigger then I expected The service was good and very attentive My only complaint about this place is the menu is pretty overwhelming and extensive But I will definitely be returning,33
+yelp,flow,flowing,Our hostess was Denise and she did a great job keeping the drinks flowing.,13
+yelp,flow,flowing,It was a Friday evening so it was full but not over flowing.,12
+yelp,flow,flowing,We loved his upbeat attitude and how he kept things flowing throughout the whole reception.,10
+yelp,flow,flow,How they've laid out their customer flow.,7
+yelp,flow,flow,"At that point I was working for a few other agencies as well and could deal with the poor flow of money from Daniel, but he did persuade me to sign a nonexclusive contract, and in that time period for the first year, I have NEVER WORKED LESS in my life so I just disregarded it and started working for everyone again.",19
+yelp,flow,flowing,"I loved the atmosphere, her excellent knowledge of the menu, and she was great in terms of making sure the bottomless mimosas were flowing.",25
+yelp,flow,flowing,Drinks were flowing.,2
+yelp,flow,flow,Shy and her team alleviated our stress by going with the flow and waiting patiently for our venue to be ready.,11
+yelp,flow,flow,"While I understand that there is a particular flow for Hatha\/Bikram yoga (which I prefer Vinyasa Flow), I always try to push myself a little farther with what I have learned in my previous practices at different studios.",8
+yelp,flow,Flow,"While I understand that there is a particular flow for Hatha\/Bikram yoga (which I prefer Vinyasa Flow), I always try to push myself a little farther with what I have learned in my previous practices at different studios.",17
+yelp,flow,flowing,"The parking in this shopping center is a bit tight as there are other food vendors right nearby, so you have a lot of foot and car traffic flowing.",29
+yelp,flow,flowing,"Great service, the mimosas kept flowing!",6
+yelp,flow,flow,"The food score is high, the employees are all very nice and the order first then sit system works very well for flow of open tables.",23
+yelp,flow,flow,"There were 10 of us all together and Raku advised they would do a prefix menu for a party this size ($50 per person), so that they can have some food prepared and that the food would flow better to each person, instead of waiting for each individual order to cook.",41
+yelp,flow,flowing,"You'll enjoy Yoga, plus energizing Yoga Pump and Pilates HIIT--which uses Tabata-inspired ""High-Intensity Interval Training"" to really get your blood flowing.",26
+yelp,flow,flow,The place has the flow of the Winchester Mansion which was frustrating and annoying for someone that doesn't like to waste time getting lost on his vacation.,4
+yelp,flow,flowing,Wine and sangria's were also flowing.,6
+yelp,flow,flowing,"So our server technically did well - she did not neglect us, kept the water flowing, continuously cleared the table, separated the checks appropriately, but I would not describe her as a pleasant person.",16
+yelp,flow,Flow,Flow throughout the gallery space was quite nice though leaves you wanting much more.,0
+yelp,flow,flowing,"I guarantee if you take lessons from Hannah one day you will find yourself confidently dancing to your favorite song, flowing seamlessly from one move to the next, loving your femininity, flipping upside down in some power move you never thought possible, and feeling like you can conquer the world!",21
+yelp,flow,flow,"Went on a Friday night- the place got packed by 8:30, but the flow of people in and out and how big the venue is made it manageable.",14
+yelp,flow,flowed,"She was so friendly, conversation flowed very easily (we all know how awkward it can be sometimes) and I left feeling like I now have someone I can really trust to continue to do my hair.",6
+yelp,flow,flow,Seems like they have a cult following since every chair was always filled with a steady flow of patrons during my 40min stay.,16
+yelp,flow,flow,I didn't have a chance to see the back room with the pool table but it is a nice addition especially for any over flow from the waiting area out front.,25
+yelp,flow,flowing,"The beers were good, big, and flowing all night!",8
+yelp,flow,flow,"The crowd flow, cleanliness, food, drinks are all up to par.",2
+yelp,flow,flows,"Walking into the restaurant, everything flows and is so welcoming.",6
+yelp,flow,flow,"If your discharged patient into rehab is at all un alert, too trusting, goes with flow, can't or won't speak up for themselves.... 
+
+AVOID AVOID AVOID and if you can't -- watch them 16 hours a day.",17
+yelp,flow,flowing,"No toilet paper, I had to use paper towels that were all over the bathroom floor and over flowing onto the floor .NO running water .",19
+yelp,flow,Flow,So I found this studio on Yelp and rushed over just in time to take Francesca's Flow 2 class.,17
+yelp,flow,flowing,Drinks are flowing and everyone was dancing.,2
+yelp,flow,flowing,The beach club is gorgeous and the drinks are always flowing!!,10
+yelp,flow,flowing,"This wouldn't have been such a big deal, but one day, the room was cleaned and the suite wasn't, so we had over flowing garbage and ran out of toilet paper.",28
+yelp,flow,flow,"Biggest gripe is the traffic flow while ordering - no matter where I stood, I was in the way of another customer or one of the workers - the 'dance' to stay out of the way got kind of old.",5
+yelp,flow,flowing,"We were fortunate to be seated in one of the private ""cabana"" booths surrounded by flowing white drapes.",17
+yelp,flow,flowing,"Barley tea was flowing liberally, the banchan was plentiful and tasty, and hubby got his fill of kimchi to last for the next few weeks.",3
+yelp,flow,flow,"I learned that ""vinyasa yoga"" is all about breathing and flow and, in this specific class, both of those things were practiced in a *slightly* heated room (I'm not sure about the exact temperature, but I'd guess it was around 85F).",12
+yelp,flow,flow,"It's a consistent flow of business, but I'm sure you won't find yourself waiting to be seated.",4
+yelp,flow,flow,Enormous quantities of pretty good and very cheap house made food flow like wine.,11
+yelp,flow,flow,and decided to go with the flow.,6
+yelp,flow,flowing,"Our server  misty was wonderful too, very attentive , we didn't have to ask her for anything , she was spot on , the drinks were flowing, I will totally be back here.",28
+yelp,flow,flow,"As self-proclaimed fanatics and my own twenty plus years in the biz, we love sitting near the kitchen to get the feel of the place, see the flow, enjoy the way the restaurant and staff make the flow happen for all the guests.",29
+yelp,flow,flow,"As self-proclaimed fanatics and my own twenty plus years in the biz, we love sitting near the kitchen to get the feel of the place, see the flow, enjoy the way the restaurant and staff make the flow happen for all the guests.",40
+yelp,flow,flow,"We were treated to an entire evening of attentive service, excellent cocktails, fabulous food, near perfect timing, and the joy of watching truly seasoned staff in their element of harmony & flow through out.",35
+yelp,flow,flow,"During the course of my meals, there was a steady flow of carry out business which is always a good sign.",11
+yelp,flow,flowing,"We loved the atmosphere, music and upbeat vibe flowing through the place.",9
+yelp,flow,flowing,"Juices flowing, perfect seasoning, amazing ciabatta bread.",1
+yelp,flow,flow,That and the bangs that I had let grow to my ears still did not flow well with the rest of my new layers (I had earlier voiced that I wanted it all to blend together).,15
+yelp,flow,flows,"I love that the conversation just flows, I love the cleanliness of the studio...I love that she is all about sanitation  (I'm kind of a freak about this), I love my beautiful nails...Thank you Thank you a million times...Anyone looking for lovely nails, look no further!",6
+yelp,flow,flow,"And it's managed to stay in place serving posh drinks, flavorful salads, pesto cheese bread and other upscale American bistro fare despite the ebb and flow of its neighborhood.",28
+yelp,flow,flowing,The bartenders are quick and good at keeping the drinks flowing at a standard downtown Toronto price.,10
+yelp,flow,flow,We had one in-person planning meeting where we went over the flow of the day as well as wedding details such as linens and any upgrades we were interested in with a member of the BRE team.,11
+yelp,flow,flowing,Mimosas were flowing and it was a great breakfast place.,2
+yelp,flow,flowing,"multiple levels, outdoor patio areas with private cabanna bottle service and over flowing jacuzzi's.",13
+yelp,flow,flow,He kept it fun and the flow was perfect.,6
+yelp,flow,flowing,"The beer is flowing, it has an authentic look, right down to the waitresses dress.",3
+yelp,flow,flowing,"My guests say that one of the highlights of the night was the amazing bartender, who remembered everyones drinks and kept them flowing all night.",23
+yelp,flow,flowed,"5 floors of artifacts, music and interactive exhibits which flowed well.",10
+yelp,flow,flow,Traffic flow is perfect.,1
+yelp,flow,flow,Once the wine began to flow and the appetizers hit our tummies all was beginning to be forgiven.,5
+yelp,flow,flow,From the moment we walked in there was a flow of colour that gave me a feeling of diving under the sea.,9
+yelp,flow,flowed,The Chile relleno was a melt in your mouth experience....The crusted corn flowed off of the cheese like a slow rolling volcano.,14
+yelp,flow,flow,My third class was with a different teacher completely yet he took us through the exact same flow.,17
+yelp,flow,flow,If you're looking for a non-profit that teaches the same flow every class- YTTP is for you.,11
+yelp,flow,flow,He looped by the vicinity of the table to see if we needed anything but never once interrupted the flow of our conversation.,19
+yelp,flow,flowing,Cool air was flowing again in a matter of minutes.,3
+yelp,flow,flow,I used to enjoy the Albertsons when it occupied this building previously; because it's just better for in and out traffic flow.,23
+yelp,flow,flow,The place is old and seems to have a ready flow of customers who know exactly what they want when they come in.,10
+yelp,flow,flow,"The design, the flow, the art, the people, the bathrooms, the knock-your-socks-off balcony suites, the restaurant\/bar.",4
+yelp,flow,flow,I also think they need to reorganize their flow of traffic.,8
+yelp,flow,flow,"If we liked this place, I am sure she would have made sure the drinks continued to flow.",18
+yelp,flow,flowing,As soon as the drinks and food started flowing everyone  was up singing and dancing all around the rooms.,8
+yelp,flow,flow,Always a steady flow of customers here.,3
+yelp,flow,flow,"The food is consistent in that it's okay, at best, the service is lackluster, and they are able to get by being mediocre because of the constant flow of college kids on weekends.",31
+yelp,flow,flow,I get that this is a restaurant in an airport terminal so there's a constant flow of customers and maybe because of this they don't care to focus on customer service...,16
+yelp,flow,flow,Unfortunately the walls are too high to witness when driving which is probably necessary for the flow of traffic.,16
+yelp,flow,flowing,The large back patio is peaceful and fitted with wooden tables and a flowing water fountain complete with fish and turtles swimming around.,13
+yelp,flow,flow,Their day seems to flow smoothly.,4
+yelp,flow,flowing,Of course being a Sunday we both ordered bottomless Rose that they offer and our server made sure to keep it flowing!!!,21
+yelp,flow,flow,"We also noticed that management was covering the floor, keeping an eye on service flow and ensuring all bases were covered.",15
+yelp,flow,flow,Let me just state I used to work at Albertsons and I'm familiar with how the flow of a grocery store goes.,17
+yelp,flow,flow,"The only little thing, which is not even a big issue, but could improve on is the music, sometimes it just doesn't flow right when too upbeat too early in the afternoon, just a personal preference.",26
+yelp,flow,flow,The bad -- The show stops and starts abruptly... there's no flow or overarching theme to the show.,13
+yelp,flow,flow,It seemed pretty popular (they have four locations) as there was a constant flow of people coming in and out so I stepped inside to take a look.,15
+yelp,flow,flows,"I chose ""Moonshine"", which is a light-colored wood laminate that flows nicely,  blending in where it meets the tile floor in the hallway.",13
+yelp,flow,flowed,Taojitos and Taotinis flowed while waiting for our entrees.,3
+yelp,flow,flowing,Plus there are over flowing trash cans and bugs on the floor by the drying stations.,4
+yelp,flow,flow,The comedian host and hostess of the show were hilarious and managed to keep the flow of the action constant and well tied together.,15
+yelp,flow,flow,"The pace and flow of the show are very natural and smooth, highly entertaining.",3
+yelp,flow,flowing,"A punchy but sweet brandy served with a frozen ball of ice bitters (of which was delicious) combined with a gorgeous nitrogen show flowing through the miniature forest right on the table in front of us, was dreamy.",25
+yelp,flow,flows,"We had had a water leak in the water line for our ice maker, and it caused quite a bit of damage before it was visible, including to our hardwood kitchen floor (which flows into the great room).",36
+yelp,flow,flowing,"The food was fabulous, our waitress was fantastic and the drinks were flowing.",13
+yelp,flow,flowing,At this Kimpton FireSky location I could hear the water flowing from some pipe and the neighbors door open and close.,10
+yelp,flow,flow,I'm not sure how this particular Starbucks manages work flow but it appeared the one lone barista could have used some assistance.,10
+yelp,flow,flowing,"No screaming little kids, generally good looking people, free flowing booze, great DJ, a beautiful pool....what else could you ask for?",11
+yelp,flow,flow,I do agree that the set up is a bit confusing and the flow makes things a bit congested.,13
+yelp,flow,flow,"It is still awesome now but I don't recommend sitting in the yurt, personally I find it hard to breathe, no oxygen flow in there.",25
+yelp,flow,flowing,"As the night progresses, the party bus gets poppin and drinks are still flowing and everyone (for the most part) is pretty cool.",14
+yelp,flow,flowed,"The only positive about this experience was the server was sweet and tried to be helpful, and the beer was ice cold and flowed large.",24
+yelp,flow,Flow,"While visiting family in Chagrin Falls, I decided to try a Slow Flow class at Chagrin Yoga with Erin Pickus.",13
+yelp,flow,flow,I could not believe how challenging hot yoga could be and that power flow class definitely made me breathe heavily and even stop at some poses so I don't faint.,13
+yelp,flow,flowing,There were paper towels over flowing the trash can and many of them ended up on the floor and I wish I could give them credit by saying they were really busy but I can't because we were there when they were at about half capacity and I would hate to be there when they have a full house.... For these reasons we're not coming back nor recommending this place to anyone...,5
+yelp,flow,flow,I tested one pair of the new ones at the gym (Zumba and cardio kickboxing) and so far they're great except they're not very breathable (I tested the mesh by blowing air flow through and the inner mesh is extremely thick.,37
+yelp,flow,Flow,For this experience; I am Humbly Endeavored to All of the Awesome and Amazing individuals that work at Life Flow Wellness Center!,20
+yelp,flow,Flow,I have recommended Life Flow Wellness Center to My Friends and to Everyone that I meet!,4
+yelp,flow,flowing,The picture shows it over flowing with bacon and dried onions on it and sauce.,5
+yelp,flow,flow,"One comment on the shaved ice, the novelty is delicious and worth the price, however it did tie up the service line, and seemed like it was a hassle for the employees to master, we had to wait a bit to get drinks and then afterwards to get our shaved ice orders as they struggled to master the machine and coordinate the flow of other customers through the line.",66
+yelp,flow,flow,"She snaps ""well this is nothing like Sumits"" and then explains the flow.",14
+yelp,flow,flow,Small parts of the flow are different (like anywhere).,4
+yelp,flow,flow,"Not a fan of the flow of traffic in the structure-- it can be a mad house, dodging cars left and right if you come on a busy day.",5
+yelp,flow,flow,I do like the flow of traffic at this airport-- I never seem to have a problem.,4
+yelp,flow,flowing,"They forgot my cookie, the drink lids were out of stock by the soda fountain, and both trash can were over flowing.",23
+yelp,flow,flow,The market has exploded w\/ a wonderful vibe and flow.,9
+yelp,flow,flow,"Yet, the staff, especially the owner, Bobby, handled the rough flow effectively with the utmost professionalism.",14
+yelp,flow,flow,Eventually the flow caught up with the whole experience and the service was prompt and efficient and the food was excellent.,2
+yelp,flow,flows,"It's definitely more of a story and the show flows more than the usual Cirque show with a bunch of amazing circus acts, interrupted by French clowns.",10
+yelp,flow,flow,"The Layout of the course does not really have a flow to it, it seems forced at times, it really doesn't follow a great plan, but since it is a replica course, it is to be expected.",10
+yelp,flow,flowing,They keep the night flowing and the conversation buzzing.,4
+yelp,flow,flowing,"The floors are sticky and dirty (I pointed it out to the manager and was told that they are understaffed)
+The trash is over flowing in the lobby\/gym.",26
+yelp,flow,flowing,But the rita's were flowing and I forgot about it.,5
+yelp,flow,flowing,I like well done steak but I would also like to see some juices flowing.,14
+yelp,flow,flowing,"There is a great selection of local juices, and the drip coffee is free flowing.",15
+yelp,flow,flow,"Yes, the hot dogs are great, the bathroom is awful, the staff is great, the drinks flow like a river, and generally, the nickel slots are worth your time and money.",20
+yelp,flow,flowing,Music to help keep you on your toes and hot totties to keep your blood flowing.,15
+yelp,flow,flowing,There were done micro greens sprinkled on top flowing out of the crepe was a Béchamel sauce with sweet peas.,8
+yelp,flow,flows,It kind of feels like it was thrown together with little regard for how the room flows or atmosphere.,16
+yelp,flow,flow,"Traditional Chinese decor greets you on entry:  the mandatory red altar by the door, the aquariums at the entrance to signify the flow of water (heck, they even house live fish too sometimes), three chinese gods feng shui(cally) placed on the corner diagonally from the entrance, golden buddha on the cashier's counter.",24
+yelp,flow,flow,The whole team worked well together and had a seamless flow.,10
+yelp,flow,flowing,"Lolo kept the drinks flowing, always super nice and fun like she was our girlfriend more than just a host.",4
+yelp,flow,flowing,"Separate the cars from the people, keep the traffic flowing for both, and keep the pedestrians safe.",10
+yelp,flow,flowing,But that can't be helped when the food booze and energy is flowing.,13
+yelp,flow,flow,"Almost nobody in the restaurant had food, yet it seemed that there was a steady flow of take out orders going out.",16
+yelp,flow,flow,"Prompt service without feeling overly rushed
+Even though there were a lot of cars, flow of traffic was speedy.",15
+yelp,flow,flows,"Overall, I feel like everything just flows so well at this spa.",7
+yelp,flow,flowing,She was overdosed by induction medicine and both her and my baby's lives were endangered--reddish liquid flowing out of her mouth and she was speaking nosense; my baby's heart beat reached 200 per minute!,19
+yelp,flow,flowing,When everything is flowing it's a very efficient ordering process.,3
+yelp,flow,flow,My only complaint is that the layout of the restaurant itself prohibits the flow of customers.,13
+yelp,flow,flowing,"With some analysis on the spot and the right part in his truck, within an hour cool air was flowing again.",20
+yelp,flow,flow,"Better suction \/ water flow, leads to a cleaner pool.",4
+yelp,flow,flow,The only complaint I had is the shower took forever to get warm and had low flow.,16
+yelp,flow,flow,"Also given the tiny dance areas you couldn't design a worse ""traffic flow"" if you tried, it's impossible to get anywhere, because people that want to dance have to do it in main traffic ways and within a few feet of the bars and bathrooms.",14
+yelp,flow,flow,"The menu had no flow to it, many dishes didn't compliment each other and way way way too much food.",4
+yelp,flow,flow,"The galleries are extremely well laid out, with easy and natural flow from one to the next; and all are disabled-friendly with access ramps between levels.",12
+yelp,flow,flow,"I like the Monkey for the traditional bar area and the selection of real ales at reasonable prices; it's a good bar to sit at if you can get a stool, and the little bench window seat at the front is a haven out of the flow of traffic.",49
+yelp,flow,flowing,Drinks were strong and the bartenders kept it flowing!!,8
+yelp,flow,flow,"The exhibits have an interesting flow to them and famous instruments, iconic outfits, and many videos.",5
+yelp,flow,flowing,The waitstaff was very attentive and made sure the drinks and food were flowing.,13
+yelp,flow,flow,"If you sit outside, you get a front row seat to the drunken flow of people in between clubs & bars, and an occasional police incident.",14
+yelp,flow,flowing,"The bright side was they got our orders correct, wasn't necessary to ask for anything additional, and they kept the drinks flowing.",24
+yelp,flow,flowing,We can get quite rowdy as the wine starts flowing (and I'll mention there were good selections of half off bottles of wine on Thursday nights) and the server only added to our great time.,9
+yelp,flow,flow,"We were seated right away, and the space\/ambiance has a really nice vibe, good flow to the room and we came with our 6 year old kid, and we weren't seated next to the bathroom (another big plus).",16
+yelp,flow,flows,He has relationships with waste disposal so that everything flows.,9
+yelp,flow,flow,"It's huge, tons of parking (with attendants to help the flow of traffic too!",13
+yelp,flow,flowing,They keep the drinks flowing when playing video bar games which some Casinos suck at!,4
+yelp,flow,flow,"It's sad to see it transition this way because I've been a fan since 2007 but with all the event bookings and over flow, gvr has now become a senseless strip hotel.",25
+yelp,flow,flow,"Watching her handle the flow of people through the front door, the phone for delivery\/pickup orders, and the other couple aside from us in the restaurant was impressive.",4
+yelp,flow,flow,"+clean studio
++student discount
++good flow",5
+yelp,flow,flow,"The separation helped me avoid any situations where I might have to explain myself after ""accidentally"" kicking some child who's not yet mentally capable of recognizing the unspoken but agreed upon social flow of the marketplace, and over all kept the babies and their P's out of my impatient hair though there was at least one mother(f*cker) who thought the busy and crowded market was the perfect place to teach her 10-month old how to walk, and for that I mentally sentenced her to death by antique steam-punk firing squad... which conveniently there was a booth for.",35
+yelp,flow,flow,The low down of this club doesn't flow well and the whole design sucks.,8
+yelp,flow,flow,"There was a steady flow of people, but we should not have had that wait.",4
+yelp,flow,flow,"Some have amazing flow, others do not.",3
+yelp,flow,flow,Classes tend to have good flow.,5
+yelp,flow,flow,There's no flow to it.,3
+yelp,flow,flow,There's a constant flow of people with screaming children coming in and out.,4
+yelp,flow,flowed,"Also, I left the office soaking wet because he never stopped as water flowed and flowed out of my mouth.",14
+yelp,flow,flowed,"Also, I left the office soaking wet because he never stopped as water flowed and flowed out of my mouth.",16
+yelp,flow,flow,"About two weeks later and several texts later Blake came out and ""Disconnected"" my back flow.",17
+yelp,flow,flowing,"This was in the basement on an exterior wall, so maybe it is our fault not to consider that a ""climate controlled"" unit would not necessarily mean there wouldn't be water flowing into the unit.",35
+yelp,flow,flow,"The layout of Tryst utilizes space very well, accommodating a natural flow of people so that you can easily get to the bars and the dance floor.",12
+yelp,flow,flow,"They just opened so they are still working on getting the flow of everything down, but there is a lot of potential.",11
+yelp,flow,Flow,"We had had another plumber out who said it was not a plumbing issue, it was a landscaping issue - after having a landscaper company out who couldn't fix it, it ended up being fixed by EZ Flow the first time.",40
+yelp,flow,flow,"If not, some tweaking of the work flow might be in order.",8
+yelp,flow,flowed,"The food and fair is plentiful, the tea is divine and the champagne flowed!",14
+yelp,flow,flowing,They know how to keep the traffic flowing in and out of the arena.,7
+yelp,flow,flow,"Low flow water faucets in the bathrooms, a water fountain that features filtered water, and a recycle center that receives old bike parts in order to be transformed into other products all contribute to the fantastic mission of the shop.",1
+yelp,flow,flows,I love the steampunk style decor and the layout flows really well.,9
+yelp,flow,flow,Horrible service at the bar coupled with no organization and no logical flow of food.,12
+yelp,flow,flow,"Staff in Sofi's are very friendly and welcoming, which means it always has a regular flow of regulars returning.",17
+yelp,flow,flow,"However, the coffee station doesn't flow well.",7
+yelp,flow,flow,The layout has absolutely no flow as the bar creates unnecessary traffic in the center of the restaurant.,5
+yelp,flow,flowing,"Cool looking spot, great location with lots going on around it, nice vibe, great taps of beer flowing.",20
+yelp,flow,flow,"It's on a cart so that's cool and I didn't feel like stuff was ""reheated"" but the whole dynamic of how it all ran and being able to get the dish you wanted and when you wanted just didn't flow very well - probably due to the small dining area.",45
+yelp,flow,flow,"However, on taxi out CLT ATC will make the flight hold for flow control for 30 to 45 minutes.",13
+yelp,flow,flow,I said that was fine and emailed her a general breakdown of how our seminars flow and how we would like things set up for the night.,15
+yelp,flow,flow,"The routine is very good and the flow shows he has earned his stripes (or ink, if you want).",7
+yelp,flow,flow,We arrived relatively early in their flow - there were 3 other tables when we arrived and 3 more were seated while we dined.,6
+yelp,flow,flowing,"Our server took great care of us, flowing by every once in a while to check on us and asking how things were.",8
+yelp,flow,flow,"Overall the terrible flow of the restaurant, awful waiter, and terrible food was enough to make sure I NEVER come back regardless of what location it is.",3
+yelp,flow,flow,Seems like there's a lack of oversight managing the flow.,10
+yelp,flow,flow,The owner recommended compression therapy to help my blood flow and light therapy to improve cellular health.,9
+yelp,flow,flow,He coordinates with all of your vendors and planners to make your event flow easily and your guests will have a blast.,13
+yelp,flow,flow,"There is no start and end, there are lots of little starts and ends, there is no flow, which makes for a lot of awkward cutting in front of people and going in opposite directions.",19
+yelp,flow,flow,The restaurant itself is small and has a sufficient flow of AC air during Summer.,9
+yelp,flow,flow,"First impression, very industrial, hip, trendy vibe but very open floor flow!",14
+yelp,flow,flowing,"Also, the crowd didn't get lively until 1am, which is probably when people from the other about-to-close clubs start flowing in.",22
+yelp,flow,flow,Anyways I go to the bar explain to Trevor this is not a car bomb and he argues with me saying it is that if he pours more Guinness that the cup will over flow.,34
+yelp,flow,flowed,"Wine flowed freely (well--expensively, but in quantity), but the teetotaler among us had to ask for more water every time her glass was empty, and had to wait to ask until a waiter could be located--in a nearly empty restaurant.",1
+yelp,flow,flow,"By 11am, the lazy river wasn't even moving it was so crowded with large groups of kids splashing each other and blocking the flow.",25
+yelp,flow,flowing,i was not a happy with some nurses thats on duty yesterday dated june 19-2017. my daughter is confined due to her kidney she was suffering for more than 3hrs due to not properly practice of puttting iv on her...she ask the asign nurse that her arms is in pain  nurse replied to wait ...so she cried for more than 3hrs hoping to get help...she called me about 9:30 pm im all the way here in washington called the hospital to get attention to my daughter  that her iv is leaking and theres  blood flowing..this is totally neglect...if its student nurses where is supervisors to check on them if they are doing right and besides  they suppose to check patients if they are ok or alive....this is about peoples life you  guys should pay more attention  and care.,99
+yelp,flow,flowing,"I've had Danielle and now Lisa (yesterday) and both are friendly and keep the conversation flowing throughout the relatively short and slightly painful (it's a Brazilian, guys) process.",18
+yelp,flow,flowed,"Our group ultimately got rather raucous as the liquor flowed, and good vibes were felt all around.",9
+yelp,flow,flow,We came by around 6pm and there was a steady flow of people coming and going during the dinner hour.,10
+yelp,flow,flow,"OR as we contemplated later.... is it that cash flow is so bad, they can't purchase wine???",10
+yelp,flow,flow,"He suffered joint Damage, Muscle Damage and he could of even gotten Gangrene for lack of blood flow on to his fingers.",18
+yelp,flow,flow,"I understand that they had a heavy flow of people coming in, but for some reason I felt very rushed today.",7
+yelp,flow,flow,While waiting for the food there was a steady flow of regulars coming and going picking up their food.,9
+yelp,flow,flow,"Yet, there is a consistency in flow and feel here.",7
+yelp,flow,Flow,Kellie was the yogi of the Align and Flow class.,8
+yelp,flow,flows,It's not just one big pool area... they split what limited space they have up into sections and it flows very nicely.,21
+yelp,flow,flow,I don't like that it's so freakin' loud in there and that the set up (flow of tables and traffic pattern) is NOT efficient or easy to maneuver.,19
+yelp,flow,FLOW,I stumbled upon urban yoga's FREE FLOW Fridays... at 8am with Emily and Sabrina.,7
+yelp,flow,flow,"(The class is always full, but never crowded) I am planning on buying the package for 5 classes in 3 months... and was hoping to continue with Friday class and try out a few others... because I'm really happy with the results of the class
+
+I would give 5+ Stars HOWEVER
+After an amazing class today, I asked why there were no more classes available on the schedule and found out that, due to new management... they will no longer be providing the free flow classes... essentially they will no longer provide amazing yoga work for people who cannot afford the luxury.",93
+yelp,flow,flowing,The desserts were amazing and our waiter kept the drinking flowing.,10
+yelp,flow,flow,Matt taught the midday hot vinyasa flow and I couldn't have been more pleased with my experience.,6
+yelp,flow,flow,The food came out in an awkwardly un rhythmic flow where half of the guests were eating and almost finished while the others were still waiting for their meals.,9
+yelp,flow,flow,Adam and his crew are here as we speak installing some drains and grading some areas of my new yard to make the water flow away from the foundation of my house.,24
+yelp,flow,flow,Beautiful studio with many different types of classes offered from slow flow to hot powerful yoga.,11
+yelp,flow,flowing,My husband is on dialysis and waiting for a kidney so we have limited income so this is part of the reason we don't have tons of $ flowing otherwise I'm sure my 8 month old baby would still be alive!,29
+yelp,flow,flow,The flow of customers was proof enough that this place was delish.,1
+yelp,flow,flowing,"The rest of the staff kept the wine flowing, water glasses full, and bread plates filled.",8
+yelp,flow,flow,"I've been here alot, and all I ever get is the Lava flow drink and the crab nachos!",14
+yelp,flow,flow,"The Lava flow is ok, just something different besides my other drinks at other places.",2
+yelp,flow,flow,The wait staff was unprepared to do anything but bring an endless flow of drinks  to the screaming table.,12
+yelp,flow,flowing,Golf-ball sized shrimp wontons were full of flavor and I love the sesame oil aroma that comes flowing out of it.,17
+yelp,flow,flow,"They no longer have the 1\/2 serving of the crab nachos, and the Lava flow drink that is still on the menu....well they really don't have it anymore because they don't have a blender at the bar.",15
+yelp,flow,flow,"The ebb and flow of sexual energy and quality of the crowd notwithstanding, this place has its purposes, and is being kept reasonably clean.",3
+yelp,flow,flow,Joey also has a passive demeanor so his presence does not disrupt the flow of a project.,13
+yelp,flow,flow,We left thinking that this store wouldn't do well unless they lowered their prices and increased traffic flow by moving closer to the movie theater.,18
+yelp,flow,flowing,Coffee was always flowing and the food was great.,3
+yelp,flow,flows,"Prices are a little high and you have to ask for things (like refills, ketchup, cream for coffee, etc) but overall the ambience was great- the breeze flows through the entire restaurant and we just chilled and relaxed for a while.",32
+yelp,flow,flowed,The service was orchestrated and flowed smoothly.,5
+yelp,flow,flow,"they were nice enough about it, but just seemed like they still haven't gotten the flow of a new restaurant yet.",17
+yelp,flow,flowing,"Drinks flowing, good music blasting, it was the place to be.",1
+yelp,flow,Flow,My favorite classes were Flow with Suki and Mad Power Fitness with Amy.,4
+yelp,flow,flow,"First issue: the machine is in the worst spot, we were constantly having to get out way of customers and staff, because the game was right in the traffic flow to the bar.",32
+yelp,flow,flowing,"When we got our order, our kids enjoyed their burritos, my husband was OK with his, enjoyed the tortilla very much, but said that nothing special, and me, when I started eating it, a white goo came flowing out... it looked like the sticky goo we use to make home-made piñatas called ""Engrudo"", which is a mix of hot water and enough flour to get a gooey consistency, and I think that's what they served me with some chunks of tenderly cooked beef.",44
+yelp,flow,flow,They had a steady flow of people coming in.,4
+yelp,flow,flow,"He got the music going, didn't skip a beat and was go with the flow when things changed last minute!",16
+yelp,flow,flowed,Conversation flowed super smoothly the whole time and it was truly a pleasure to hang out with her while she was creating her masterpiece on my head.,1
+yelp,flow,flow,But once 5:30pm hit a steady stream of people began to flow and it took a while for us to get our check.,11
+yelp,flow,flowing,"I wish I could sit by the window, read my books while watching the busy Yonge Street flowing beneath me.",18
+yelp,flow,flow,"And although the band was great, U of P as a concert venue stinks for several reasons:
+- Parking and traffic flow.",23
+yelp,flow,flow,He is really friend and his emcee skills made our timeline flow well.,11
+yelp,flow,flow,"Seriously, all it would take is someone to watch the crowd flow patterns.",12
+yelp,flow,flowing,Electronic chill music leaves things low key and calm while also keeping the energy flowing.,14
+yelp,flow,flowing,Meanwhile the leaky drip system has water flowing into my yard and damaging my wall.,7
+yelp,flow,flowing,The first night there was no hot water flowing from any of the faucets in the bathroom.,8
+yelp,flow,flow,"The atmosphere is classy but chill and everything seemed to flow effortlessly, especially for a packed Friday night.",10
+yelp,flow,flowing,"As promised, the Perrier Jouet, lobster, and caviar where free flowing and delicious.",13
+yelp,flow,flow,"I do like the fact that this hotel doesn't have extreme traffic flow, but then again it's off the strip.",13
+yelp,flow,flow,I did compare if I were to pay all you can eat vs. a la carte: all you can eat deal is much better with one flow: the rice part of the sushi is too thick but this is almost standard in all sushi restaurants.,27
+yelp,flow,flowing,They keep the coffee & water flowing too.,6
+yelp,flow,flow,"There are signs, but still it doesn't have a natural flow.",12
+yelp,flow,flowing,Our waiter was beyond awesome and kept the happy hour drinks a flowing to our room.,12
+yelp,flow,flows,"Everything, from the x-rays to hygienist cleanings to exams, flows very efficiently.",11
+yelp,flow,flowed,"In reality, I think there was a big heap of shredded pork, all the juices had flowed down to the bottom, and the dried out stuff from the top of the heap was used to make our order.",18
+yelp,flow,flow,"Don't let this scare you away, the service is fast and people flow in and out quickly!",14
+yelp,flow,flow,"There is a constant flow of clients of all ages coming in and out, so if you need a new hair salon I would highly suggest the Parlour!",4
+yelp,flow,flow,"THey the whole concept of the museum was amazing, excelltent design, smotth flow, and amazing transitions, expect nothing less from Mercedes.",14
+yelp,flow,flowed,"My dish, the pollo parmigiana, was unimpressive, with the fettuccini noodles being tough and in a terribly watery marinara sauce base that simply flowed off the noodle through your fork, leaving plain noodles per bite.",26
+yelp,flow,flow,The flow was good with a few places to sit and chill or a long table to stand at with your drinks.,1
+yelp,flow,flow,"After paying the steep bill and getting home I looked at my hair (no mirror was shown to me at the end of the appt) - my hair and bangs looked unfinished, choppy and with no flow (my hair usually has subtle waves).",39
+yelp,flow,flow,"They've got little TVs in front of the elliptical machines, if you want to zone out, or you can hit the treadmill and watch the flow of people down on King below.",28
+yelp,flow,flowing,"Hobbs is the height of sophisticated fashion and seems aimed at those lucky women who always look smart and effortlessly stylish with trouser suits, tailored trousers and flowing dresses.",28
+yelp,flow,flowing,Lisa was very attentive and kept the coffee flowing.,8
+yelp,flow,flow,"There are old school video games in the back, the bathrooms sometimes over flow all the way into the bar area, and it can be crowded.",14
+yelp,flow,flowing,"There was good music, booze were flowing, and it was outside which was pretty cool.",7
+yelp,flow,flows,"Everything on the sandwich flows together for perfect food harmony creating the ultimate orgasmic tastebud experience, sorry for the detail but i figured I should warn you in case you need to bring an extra pair of pants.",4
+yelp,flow,flowing,"It's in a big open room to, so the air is flowing and you definitely don't feel cramped at all.",13
+yelp,flow,flowing,Some departments are limited and others are over flowing.,8
+yelp,flow,flowed,"The avocado, mushrooms, and cheese flowed really well in the omelet.",7
+yelp,flow,flowed,It was warm which is something I'm not used to but it flowed perfectly.,13
+yelp,flow,flowed,The sake flowed freely.,2
+yelp,flow,flow,I stopped in on their opening day and watched a steady flow of people come in and buy cupcakes.,11
+yelp,flow,flowing,Sweet layout with inside and outside with fresh air flowing in.,9
+yelp,flow,flowing,The drinks were flowing but not consistent a 4 out of 5.,3
+yelp,flow,flow,Renters are not some form of an insurance policy on a positive cash flow for the properties you manage.,13
+yelp,flow,flow,"Matt was Very Professional check everything with my pool, flow, pressures changed seals and enducated me on my pool pump.",10
+yelp,flow,flowing,We were checked in and seated right at the time of our reservation and champagne was poured into our glasses -- it was free flowing bottomless champagne which was nice but I was pretty hungover from the previous day so I didn't really care for it.,24
+yelp,flow,flows,"Great atmosphere,  energy flows here.",4
+yelp,flow,flow,"My mother was unhappy, my steak isn't good at all and the third steak being the small 5oz just plowed on through and focused on her flow of shrimp.",28
+yelp,flow,flowed,I really liked the way it flowed.,6
+yelp,flow,flow,"In the end, I understood that the vent being completely clogged made it difficult because there was no air flow to feel for.",20
+yelp,flow,flowing,"They stayed hidden and out of the way, but if you were paying attention, you could truly see all they were doing and how well they kept everything moving and flowing.",32
+yelp,flow,flow,"No seating- ok, fair complaint, the seating was limited but by the same token the flow of traffic and the crowds is still being figured out so the last thing they want is to have people tripping over chairs that are unnecessary.",17
+yelp,flow,flowing,It definitely gets your blood flowing and your heart racing.,5
+yelp,flow,flowing,"We could care less, the drinks were flowing and the music was bumping.",8
+yelp,flow,Flow,"I've done Yoga classes in Canada and elsewhere in the United States, and today's ""Flow"" class with instructor Dan Keegan was one of the best I've ever been a part of.",18
+yelp,flow,flow,"Sometimes it's hot in the studio and can be crowded  in some classes, but usually once the flow goes the rest of the world disappears.",19
+yelp,flow,flow,"The manager came by to apologize a couple of times, explaining that there was a ""problem"" in the kitchen, and they gave us our cocktails for free, offered free tequila and brought us free chips and guac, but we really would have preferred to have the service flow more smoothly.",53
+yelp,flow,flow,Upstairs gives you a cool view of the sky and allows fresh air to flow through the restaraunt.,14
+yelp,flow,flow,The show has no flow.,4
+yelp,flow,flowed,"The dessert buffet was descended upon like no one had seen sugar in a year, and the prosecco flowed the whole night.",19
+yelp,flow,flow,Obviously the staff has been changed and it's not for the best my boyfriend has lived in this area forever so I am a regular we sat at the bar for 20 mins before being asked if we need help ahhh duh we are here of course the water had stuff floating in it from glasses being dirty and the soda we ordered after that was flat soup was cold wings were salty steak was over cooked and service was horrible let's rewind go back and attempt to regain old staff the flow was better energy was better I'm never back,94
+yelp,flow,flowed,The kitchen seemed so calm and the staff just flowed so well.,9
+yelp,flow,flowing,You'll dine next to one of the flowing fountains underneath a sky scape.,8
+yelp,flow,flowing,"So I have to assume that as soon as it was received, off the truck, last night, that one of the employees instantly put it on layaway, to pay it off over the next 3 months, instead of allowing their place of employment to actually make money off of it by selling it today, to the people who keep the doors open and business flowing, the paying customers who can afford to buy it NOW, not using the layaway program.",70
+yelp,flow,flowed,I was well hydrated and my blood flowed fine.,7
+yelp,flow,flow,"I never really saw a trash can overflowing, and everyone that helped make the event flow was always smiling and enjoying themselves.",16
+yelp,flow,flow,During my stay there was a steady flow of pple ordering takeout and dining in.,7
+yelp,flow,FLOW,My favorite class is the YIN and SLOW FLOW.,8
+yelp,flow,flow,Just doesn't flow well,3
+yelp,flow,flow,The only thing he did was push down on my body with no proper flow or technique on his movements.,14
+yelp,flow,flow,"It's obvious just watching people drive, and the lack of flow just walking the terminals, gates...and worst is the baggage claim",12
+yelp,flow,flow,"While it is a small place, there seems to be ample seating for the flow of customers on an average day; there were 4-6 tables, and 2 longer, communal benches at the back.",15
+yelp,flow,flow,Bring a designated driver and let the beer flow.,8
+yelp,flow,flow,"Sorry, if I offend those of you that find ""structural engineering that re-routes the flow lakes"" cool.",16
+yelp,flow,flowed,The service was seamless & just flowed very nicely.,6
+yelp,flow,flow,"The tables were bussed quickly, and there appeared to be a very smooth flow - great to see that at an establishment!",14
+yelp,flow,flowing,"When we got to GVR we ate some breakfast at the buffet, but mostly were in it for the endless mimosas because they were strong and free flowing (aka best combo).",28
+yelp,flow,flow,filters as it just strains your system and can cause break downs and inhibit the air flow.,16
+yelp,flow,flow,"There was a steady flow of people moving in and out of the place, even at 1pm.",4
+yelp,flow,flow,Plates get a little larger and beverages continue to flow.,9
+yelp,flow,flow,Her transition and flow was on point!,3
+yelp,flow,flows,This is nice so everyone is not lined up like soldiers and conversations flows.,13
+yelp,flow,flow,"We've paid $1053 for a party of 15, 2 bottles of red wines, bar drinks (plus free flow lemonade at $5 per person).",22
+yelp,flow,flowed,Normally his words flowed like melted butter over grilled corn on the cob.,3
+yelp,flow,flow,A bit dubious I went with the flow.,7
+yelp,flow,flow,"Its busy and loud so convo can flow, phones can ring, and business is conducted without self consciousness.",7
+yelp,flow,flowed,The drinks flowed like water.,2
+yelp,flow,flowed,The main actor and actress has really good voices and the story line was sweet and flowed nicely.,16
+yelp,flow,flow,"Only a couple buildings down, Pei Wei rocks it with a steady flow of business.",13
+yelp,flow,flow,The flow is seemless and structured in a way that makes perfect sense.,1
+yelp,flow,flowing,I've never called a plumber before because I can do the smaller jobs but a neighbor rang my door at 7:30AM the other day to tell me a pipe was gushing water out flooding my side yard and flowing down the street.,39
+yelp,flow,flow,It's a great workout and I like that it incorporates power flow in between postures.,12
+yelp,flow,flow,"I'll say this...a very good ""flow"" to the dining experience.",9
+yelp,flow,flow,The air conditioner works now and the air flow is 5x stronger than after the installation.,8
+yelp,flow,flowing,Beer kept coming and the conversation kept flowing.,7
+yelp,flow,flows,The crowd ebbs and flows so even if you show up and it's slow all I can say is don't leave because the party always appears just when you think it might not.,4
+yelp,flow,flowing,"It must have been flawless as the food, and the drinks, seemed to be flowing.",16
+yelp,flow,flow,"Because of this, I am forced to change her in the crowded restroom while my stroller, diaper bag, body, etc block the traffic flow of people trying to get in and out.",27
+yelp,flow,flow,Having a hostess or some kind of way to manage seating besides trying to shark your own table would help the flow here tremendously.,21
+yelp,flow,flow,"I would think by now you should be able to have a better idea of your customer flow (I'm no business whiz, but it's painfully obvious to me as a frequent customer that you do not regularly keep sufficient quantities of desserts on hand to fulfill demand for an entire weekend day).",17
+yelp,flow,flowing,Our drinks were flowing all night.,3
+yelp,flow,flowed,The line flowed more easily at this chipotle than others I've been to.,2
+yelp,flow,flow,Toilet - someone probably flushed something - it was insanely slow flow.,11
+yelp,flow,flow,This is just a sign that they don't care about controlling the flow of food and giving customers the best food possible.,13
+yelp,flow,flows,The pedicure room gives a different attitude yet still flows cohesively with the entire look and style and feel.,9
+yelp,flow,flowing,"Overall, it is a cool place to be if you would like some peace and quiet to yourself or have a place to get your creative juices flowing with a pen and paper.",28
+yelp,flow,flows,It's good to see that the etiquette of Tony flows down to their servers.,10
+yelp,flow,flow,"In the healthcare field myself I am very aware about how customer service can impact a practices profitability, and patient flow.",21
+yelp,flow,flows,The entrance is wonderful up a nice set of steps into an entry hall and to a reception desk that feels more like a hotel than a restaurant with an open lobby that flows into the Bar area which also has tables.,33
+yelp,flow,flow,"The shower head had major water deposits that disrupted water flow, the bathroom fan sounded like a wood chipper, and the sink did not provide hot water for shaving or hand washing.",10
+yelp,flow,flow,"From almost the beginning, he came to my wife telling her a sob story about his cash flow situation and asking for advances.",18
+yelp,flow,flowing,"Our waiter was extremely friendly and everything was flowing along, each course came and went at a wonderful pace.",8
+yelp,flow,flowing,The party atmosphere quiets when the music starts and the waters start flowing.,12
+yelp,flow,flow,"They took the time to check and balance the air flow in each area of my house, cleaned up before they left.",10
+yelp,flow,flowing,"I did notice with the installation of the new system and whatever adjustment they did to my duct work, the air is flowing a lot better and balanced in my house now.",23
+yelp,flow,flow,Self serve drinks helps keep the flow nice.,6
+yelp,flow,flowing,The entry process was pretty smooth and flowing.,7
+yelp,flow,flow,There is a little audience participation and the MC Zenoch does a great job keeping the flow going and the audience engaged.,16
+yelp,flow,flow,The back office staff was organized and kept the patient flow moving.,10
+yelp,flow,flow,The yoga teachers I've practiced with have great flow and the classes were geared toward all levels.,9
+yelp,flow,flow,"I was so impressed with the organization, the cleanliness, that easy flow of how everything went at Sunday's game.",13
+yelp,flow,Flow,I got the fish tacos and Lava Flow smoothie.,7
+yelp,flow,flow,The heater worked but the sink's water didn't flow & the toilet didn't work but was too tired to deal with it that night.,10
+yelp,flow,flow,"Heat wave, high humidity No air flow in cabin, no A\/C in cabin (except up front for crew.)",7
+yelp,flow,flow,"The corner is a bit awkward due to how the Clanton-South-light rail intersection is setup, but the entrances and exits here are installed to keep a good flow of traffic through the station.",28
+yelp,flow,flow,"Coffee cups stayed filled, the place was buzzing with a constant flow of people, glad we were able to get a table--we will be back!",12
+yelp,flow,flow,"With all of that being said, I had to fix the ceiling myself and the part that was missing was allowing carbon monoxide to flow freely while my heater was being used!",25
+yelp,flow,flow,"There's hot yoga, flow yoga, core yoga, a stretch yoga, a neuro something or other meditation type of yoga.",5
+yelp,flow,flow,I spent a very difficult period of my life finishing writing my book in this cafe and witnessed hundreds of people flow through the doors and have a wonderful experience.,21
+yelp,flow,flow,I did not know what I was getting myself into but drunkenly tried to go with the flow.,17
+yelp,flow,flow,"Interestingly, to keep with the flow of the videos and time limit in the pods, the wheel doesn't stop so you have to get on and off while it's moving.",6
+yelp,flow,flows,It flows superbly.,1
+yelp,flow,flow,My AC seems to be working fine the issue was one side did not flow as strong as the other side.,14
+yelp,flow,flowing,Trash everywhere and the dumpster area is constantly over flowing.,9
+yelp,flow,flow,"They measure head size, bone length, brain circumference, and most amazingly, the blood flow to every organ.",17
+yelp,flow,flows,"traffic to and from usually flows fast enough, plenty of very visible signs help you navigate the loop around the airport.",5
+yelp,flow,flow,I'm all about going with the flow but there was just a bit too much flow for me.,7
+yelp,flow,flow,I'm all about going with the flow but there was just a bit too much flow for me.,16
+yelp,flow,flowed,"The drinks also flowed at a good pace, which helps.",3
+yelp,flow,flowing,She then blamed me for needing to draw my blood again (this was after she tried filling two vials and the second one had no blood flowing into it).,27
+yelp,flow,flow,"That doesn't stop customers from coming because the whole time we were there, they had a very steady flow of hungry customers coming in.",20
+yelp,flow,flowing,The cocktails were delicious and flowing and our view of the lake show was a perfect added bonus.,5
+yelp,flow,flow,"Seems like they are still getting their flow going as a new place but they are gonna be rocking and rolling, especially cause it is a great place to hang out for cocktails too after work.",7
+yelp,flow,flowing,It struggles between having an open flowing layout and wanting to be a quiet and cozy dining area.,6
+yelp,flow,flowing,"We didn't have a rubber band or anything for his hair, so it was just flowing freely and whacking me in the face!",17
+yelp,flow,flowing,The batter wasn't heavy but I think the chicken was just a tiiiiiiny bit over cooked cuz it didn't have the juices flowing out when I bit into it.,24
+yelp,flow,flowing,This place really kept the alcohol flowing last night.,6
+yelp,flow,flowing,All the flowing reviews and pictures made me want to try this place.,2
+yelp,flow,flows,I've also had their mussels which are presented on a bed of fries where a bunch of mussel goo flows freely onto.,20
+yelp,flow,flow,Due to the shape of the property and the flow of traffic they have blocked off the parking area from the drive through area.,9
+yelp,flow,flow,"The waiter was very polite and understanding but the flow between the bar, kitchen and the table was not there.",9
+yelp,flow,flow,"I understand the strategy of having multiple lines and entry points to control traffic flow into the club... table service, guest list, tickets, etc.",14
+yelp,flow,flow,Also massaging the area after the first week when swelling\/blistering goes down to get blood flow to the area.,15
+yelp,flow,flow,The flow is a cluster and it doesn't appear that any of the staff know what they're doing.,1
+yelp,flow,flowed,The service was impeccable and flowed seamlessly.,5
+yelp,flow,flowing,"The only thing I'd hoped to find and didn't see was studios for dance instruction... and possibly a little more cake :p
+
+Overall, this was a good time to spend with a couple friends to get the ideas flowing.",43
+yelp,flow,flow,"From the audience's perspective, the seats are comfortable with good views of the stage, the lobby is large enough to mingle in, and the concessions flow, if you'd like a beverage while you watch the show.",29
+yelp,flow,flowing,"Your food comes on huge oval plates, a brown basmatti riec over flowing, gren salad, a small tomato and onion salsa type sald, and a piece of naan bread.",13
+yelp,flow,flowing,It's built so that there is maximum wind flowing through the waiting area.,9
+yelp,flow,flowing,"No cards in store but over flowing ( to the point of blocking traffic) cart returns in the parking lot
+
+There's never any staff anywhere including the cash.",6
+yelp,flow,flow,"The way the shelves are set up the merchandise is set up in different enclaves, there's no real flow.",20
+yelp,flow,flow,"Two additional points I'd like to make: first, there was a bunch of people waiting for Matt's Big (slow) Breakfast but it wasn't a constant flow of additional people coming it was the same bunch of people waiting for 50+minutes; second, YOU'VE been warned.",32
+yelp,flow,flows,"There's a reasonable size playground, (fake) grass area, small bridge w\/ water that flows underneath it and small stands for refreshments if you feel that you need a cool down.",18
+yelp,flow,flow,"Unfortunately this class was more basic (no sweat, little flow) than the one actually entitled Basic that I took on Tuesday so I don't think I will be back to this one.",11
+yelp,flow,flowing,"Only two other customers but yet tables are dirty, trash over flowing.",12
+yelp,flow,flow,"As soon as my friend and I sat down, people started to flow in and it got cray cray real quick.",13
+yelp,flow,flow,"What she did have insight into was feelings, energy, and a general sense of the flow of my current life, which I found intriguing.",17
+yelp,flow,FLOWING,"Around midnight, the fire alarm started going off AND water started FLOWING OUT OF IT.",12
+yelp,flow,flowing,I called the front desk and let them know what was going on (yelling because the alarm was so loud) and he didn't believe me when I said the ceiling was flowing out water.,34
+yelp,flow,FLOWING,"At the same time, the sprinkler next to the closet, the sprinkler in the bathroom, and the bathroom vent all started FLOWING water, enough to fill up the trash bin.",24
+yelp,flow,flow,"Ever so slight of a pause between courses, but not long enough to disrupt the flow one bit.",16
+yelp,flow,flows,Every member of the staff flows reminiscent of a choreographed ballet.,5
+ml_subreddit,grow,grow,"As you grow in your career, especially past the *Senior* level, your ability to influence your peers, and leaders matters a lot more than your technical competency.",2
+ml_subreddit,grow,grow,By no means was I going to do any advanced stuff at work so I needed to start doing it on my own if I wanted to grow.,27
+ml_subreddit,grow,grow,"Are you someone who is a joy to mentor, support, and watch grow?",14
+ml_subreddit,grow,grow,We all have areas to grow.,5
+ml_subreddit,grow,grow,"I’m working on  the Shared Rides business, and work on building products that grow the business.",16
+ml_subreddit,grow,grown,I'm well compensated but I've really grown to hate my career.,8
+ml_subreddit,grow,growing,"The availability of good programmers is growing every year, especially with most software tools being freely available and huge competition from programmers from developing countries such as India and China.",6
+ml_subreddit,grow,growing,"With my skill-set quickly growing, I began applying to jobs about 3 months ago.",4
+ml_subreddit,grow,growing,"Thanks,
+
+Alex..There have been several posts lately about the apparently growing trend for data scientist jobs to have engineering requirements.",13
+ml_subreddit,grow,growing,A growing number of companies have products which rely on making recommendations or decisions at scale and rely on ML to make those decisions.,1
+ml_subreddit,grow,grow,"Another example is that as decision making systems evolve, their complexities grow.",12
+ml_subreddit,grow,grows,"Does this cover it, or is there more that's expect to know of the get go?..Hi everyone,
+
+I'm looking for the collective help of Reddit as I came across a very interesting article a year or so ago which seemed to outline the needs and hires required for each of the stages of an organization and it grows.",64
+ml_subreddit,grow,growing,"Read more: [Radioactive Data: Facebook AI Knows Where You Got Your Training Dataset](https://medium.com/syncedreview/radioactive-data-facebook-ai-knows-where-you-got-your-training-dataset-825d062a6f4c).With all the controversy regarding machine learning reflecting racial biases, the mis-handling of data, increasing security threats and growing public concern on how private data is used, should data science training include a stronger focus on ethics?",42
+ml_subreddit,grow,grown,"R is an **organically grown** language that is not always lexically consistent, so it can be a bit quirky.",6
+ml_subreddit,grow,grow,* The data science field is really hot and will surely continue to grow for many years to come.,13
+ml_subreddit,grow,grew,Responsibilities grew to that of a normal Senior Data Scientist within 6 months and will double by the beginning of next year.,1
+ml_subreddit,grow,grow,"I want to accept the increased responsibilities, but I myself am not sure whether I can handle everything; I feel like my current limit is 5-6 products, but I did grow from struggling with 1 product to comfortably handling 3 products in 4 months.",33
+ml_subreddit,grow,growing,"Thus, there's also a local vs regional component to my issue..I have an interview at a small (500 employee) but growing tech company that wants to hire a data engineer to build their data warehouse from scratch.",26
+ml_subreddit,grow,grow,"Should I just take this, grow in this side and hope to find something in the future?",6
+ml_subreddit,grow,grown,"The program started with just 8 fellows 8 years ago and has now grown to a program that graduates 1,000 alumni per year in 6 cities and 8 different disciplines— not just data science but data engineering, AI, DevOps, Health Data, Data Product Management, Crypto and Security fields too.",13
+ml_subreddit,grow,grow,I would have the opportunity to grow the team (we are 4 now) and it goes without saying that the salary would get adjusted accordingly.,6
+ml_subreddit,grow,grow,Alternatively I could just continue to grow as a data scientist.,6
+ml_subreddit,grow,growing,**The good**: TDI has built a fairly large partner network and it is ever growing.,19
+ml_subreddit,grow,grown,"Unbeknownst to team X, the original Bayesian risk analysis project has now grown into a multimillion dollar major overhaul initiative, which included the eventual replacement of all of the tools and functions supported by team X along with the necessary migration to the cloud.",13
+ml_subreddit,grow,grown,"Below is the article:*
+
+**Stand Up for Best Practices:
+Misuse of Deep Learning in Nature’s Earthquake Aftershock Paper**
+
+**The Dangers of Machine Learning Hype**
+
+Practitioners of AI, machine learning, predictive modeling, and data science have grown enormously over the last few years.",51
+ml_subreddit,grow,growing,What was once a niche field defined by its blend of knowledge is becoming a rapidly growing profession.,16
+ml_subreddit,grow,grow,"As the excitement around AI continues to grow, the new wave of ML augmentation, automation, and GUI tools will lead to even more growth in the number of people trying to build predictive models.",7
+ml_subreddit,grow,grow,We need good machine learning practices if we want our field to continue to grow and maintain credibility.,14
+ml_subreddit,grow,growing,I’m sure the growing profit margins and money that’s flowing in from all our work is more than satisfactory for the company leadership / investors to not have any issues with all this.,5
+ml_subreddit,grow,growing,"*....Hi all,
+
+
+/r/machinelearning is growing rampantly, with over a thousand new subscribers *every day*.",7
+ml_subreddit,grow,grows,"As our community grows, it is important to have fertile ground for newcomers to learn the ropes.",3
+ml_subreddit,grow,grow,"We are planning to grow this with various interesting topics including, optimisation, deep RL, probabilistic modelling, normalising flows, deep learning, and many others.",4
+ml_subreddit,grow,growing,"[https://www.reddit.com/r/Python/comments/g484d4/today\_im\_releasing\_pyboy\_v100\_a\_game\_boy\_emulator/](https://www.reddit.com/r/Python/comments/g484d4/today_im_releasing_pyboy_v100_a_game_boy_emulator/).From their [page](https://iclr.cc/Conferences/2020/virtual):
+
+# ICLR2020 as a Fully Virtual Conference
+
+Due to growing concerns about COVID-19, ICLR2020 will cancel its physical conference this year, instead shifting to a fully virtual conference.",30
+ml_subreddit,grow,grown,"What started as a small community of hobbyists has grown to be one of the largest series of AI workshops in Romania, connecting students and developers in monthly events facilitated by speakers from local universities and companies.",9
+ml_subreddit,grow,growing,"There is *a large and growing number of authors, who cannot attend and present their scientific work*, because the U.S. government treats their profiles as suspicious, despite their academic results.",6
+ml_subreddit,grow,grown,"It raised $2.7M in early 2017 and $12M in 2018, both rounds led by Seattle’s Madrona Venture Group, and has steadily grown its local operations and areas of business.",27
+ml_subreddit,grow,grows,"It is possible that Google can wait until your company grows up and come back to sue you, which could potentially make you or your institution liable for consequences and damages, not Google.”...Hi all,
+
+&#x200B;
+
+Hope this is not considered spammy, genuinely think it's of interest to the community of this subreddit.",10
+ml_subreddit,grow,grow,"astonishingly, the recent [Turing award laudation](https://amturing.acm.org/) refers to Yann's variants of backpropagation and Geoff's computational experiments with backpropagation, without clarifying that the method was invented by others
+
+in the [GAN thread](https://www.reddit.com/r/MachineLearning/comments/djju8a/d_jurgen_schmidhuber_really_had_gans_in_1990/) someone wrote that ""LeCun quipped that backpropagation was invented by Leibniz because it's just the chain rule of derivation"" but that's a red herring, Linnainmaa's reverse mode backpropagation is more specific than that, it is the efficient recursive chain rule for graphs, Leibniz did not have that
+
+[section 3 of the blog](http://people.idsia.ch/~juergen/deep-learning-miraculous-year-1990-1991.html#Sec.%203) mentions Linnainmaa again in the context of Sepp Hochreiter's 1991 thesis [VAN1](http://people.idsia.ch/~juergen/SeppHochreiter1991ThesisAdvisorSchmidhuber.pdf) which
+
+> formally showed that deep NNs suffer from the now famous problem of vanishing or exploding gradients: in typical deep or recurrent networks, back-propagated error signals either shrink rapidly, or grow out of bounds.",174
+ml_subreddit,grow,grow,"That said, my confidence did grow with time and I noticed that almost every question asked was from the easy and medium collection from [this question bank](https://leetcode.com/explore/interview/card/top-interview-questions-easy/).",6
+ml_subreddit,grow,growing,"Other Transformers include GPT-2, ERNIE, and the list is growing.",11
+ml_subreddit,grow,growing,"“We provide the software, they provide the rest of the systems.”
+
+Logistics-sector appetite for such technology is growing as distribution and fulfillment operations that have relied on human labor look to speed output and meet rising digital commerce demand.",20
+ml_subreddit,grow,growing,"Here's what I gather from the responses below (with arXiv references):
+
+* Large batch sizes ([1809.11096](https://arxiv.org/pdf/1809.11096))
+* Data Augmentation ([2006.10738](https://arxiv.org/pdf/2006.10738))
+* Higher learning rate/more iterations for the discriminator ([1706.08500](https://arxiv.org/pdf/1706.08500))
+* R1/grad penalty ([1801.04406](https://arxiv.org/pdf/1801.04406), [1704.00028](https://arxiv.org/pdf/1704.00028))
+* Cosine LR schedule ([1806.04498](https://arxiv.org/pdf/1806.04498), [1801.04406](https://arxiv.org/pdf/1801.04406), [1905.00094](https://arxiv.org/pdf/1905.00094))
+* Discriminator on patches ([1611.07004](https://arxiv.org/pdf/1611.07004))
+* Truncating latent samples ([1809.11096](https://arxiv.org/pdf/1809.11096))
+* Multiscale gradients ([1903.06048](https://arxiv.org/pdf/1903.06048), [1912.04958](https://arxiv.org/pdf/1912.04958))
+* Averaging for evaluation of generator ([1806.04498](https://arxiv.org/pdf/1806.04498))
+* Add noise at multiple levels ([1812.04948](https://arxiv.org/pdf/1812.04948))
+* Latent Optimization ([1912.00953](https://arxiv.org/pdf/1912.00953), [1707.05776](https://arxiv.org/pdf/1707.05776))
+* Relativistic Discriminator ([1807.00734](https://arxiv.org/pdf/1807.00734))
+* Spectral Norm with hinge loss ([1802.05957](https://arxiv.org/pdf/1802.05957))
+* Memory replay ([1809.02058](https://arxiv.org/pdf/1809.02058))
+* Progressively growing samples ([1710.10196](https://arxiv.org/pdf/1710.10196))
+* Conditional Batchnorm (with labeled datasets) ([1810.01365](https://arxiv.org/pdf/1810.01365))
+* Regularizing the Discriminator ([1910.12027](https://arxiv.org/pdf/1910.12027))
+* Conditional GANs ([1611.07004](https://arxiv.org/pdf/1611.07004))
+* Additional Losses ([1901.08753](https://arxiv.org/pdf/1901.08753)).The NLP community has been focusing a lot on chasing the SOTA on standard and recent leaderboards (GLUE, SentEval...) over the recent years.",262
+ml_subreddit,grow,growing,"In particular, we redesign generator normalization, revisit progressive growing, and regularize the generator to encourage good conditioning in the mapping from latent vectors to images.",10
+ml_subreddit,grow,grow,"Again--I'll never grow tired of saying it--@z/@x depends on all the inputs x_0, y_0, and W_0 because we need to compute the derivative wrt x at the point (x_0,y_0,W_0).",5
+ml_subreddit,grow,grow,I’m seeing my friends from undergrad grow in their careers (and in their skillsets as engineers) while I sit in the lab 24/7 trying to crank out another paper.,8
+ml_subreddit,grow,growing,"Let's do this 🚀🚀
+
+&#x200B;
+
+\[Edited 4\]
+
+Since there is more growing interest and people who might be interested in other talks, feel free to leave your info the the google form above ([https://forms.gle/wSXexXSBj5e5267G8](https://forms.gle/wSXexXSBj5e5267G8)) and I will send out an update via email when more free lectures in similar topics are scheduled..*(for reference:* [*https://www.reddit.com/r/datascience/comments/eld2yp/what\_do\_you\_call\_a\_group\_of\_data\_scientists/*](https://www.reddit.com/r/datascience/comments/eld2yp/what_do_you_call_a_group_of_data_scientists/)*)*
+
+CLUSTER is your winner!",18
+ml_subreddit,grow,grew,"&#x200B;
+
+Update2:Since group grew far too quickly than expected - it wasn't possible to manage things on Telegram.",8
+ml_subreddit,grow,growing,"I am interested in machine learning because I have seen many interesting applications with machine learning, and I expect it to be a growing field.",24
+ml_subreddit,grow,growing,"I've tried with a custom model trained on my (growing) corpus of 600k articles using word2vec and fasttext, as well as a model pretrained on Google News.",11
+ml_subreddit,grow,grow,"I need to indentify the actions (suspend, dilute, grow), ingredients (mating mixture, 10 mM MgSO4) and meta-actions to obtain the method used in a ordered and more simple way.",11
+ml_subreddit,grow,grows,"Naively, I would that as the n grows, the sparsity of the word-document matrix will grow exponentially.",8
+ml_subreddit,grow,grow,"Naively, I would that as the n grows, the sparsity of the word-document matrix will grow exponentially.",17
+ml_subreddit,grow,growing,"And what publications are the most  valued in the professional and the academic world?..Hi everybody,
+
+In the last few months, I spent a lot of time working on semi-supervised learning (SSL), and seeing the rising interest in SSL approaches in deep learning, I thought I create a list [*] of SSL resources to make navigating the growing number of papers easier.",67
+ml_subreddit,grow,growing,They also restructure their AdaIN layers and remove progressive growing to remove artifacts associated with StyleGAN images.,9
+ml_subreddit,grow,growing,"There is a growing urgency for these approaches because of the rapid acceleration in new coronavirus literature, making it difficult for the medical research community to keep up.",3
+ml_subreddit,grow,growing,"There is a growing urgency for these approaches because of the rapid increase in coronavirus literature, making it difficult for the medical community to keep up.",3
+ml_subreddit,grow,growing,"*
+
+You  can find more informations about data collection on my GitHub  repository here : [Github nba-predictor repo link](https://github.com/Nathanlauga/nba-predictor)
+
+If you have any suggestions I will gladly read them and try to improve the dataset.....Our DaaS platform Quandl is a free and open index of currently over 4 million datasets that is growing daily.",61
+ml_subreddit,grow,grow,"The amount of funding needed to see this through will be in the range of $30-$40 thousand dollars, but Pineapplefund's contribution is enough to get the framework together and create an expandable server that can grow over time.",40
+ml_subreddit,grow,growing,And let me know if you find it useful so I can motivate myself to keep growing the index.,16
+ml_subreddit,grow,growing,"Have been scrapping for about 2 months now and wanted to share this dataset with you (270Mb uncompressed and growing, more than 2.5M rows).",20
+ml_subreddit,grow,growing,"More information and data sources here:  [http://np.reddit.com/r/dataisbeautiful/comments/d0u6fc/oc\_how\_dangerous\_cleaning\_the\_chernobyl\_reactor/](http://np.reddit.com/r/dataisbeautiful/comments/d0u6fc/oc_how_dangerous_cleaning_the_chernobyl_reactor/).I have a time series data with 4 layers of nesting (say - world population , 1 country population , 1 state population and 1 city population) I want to highlight that the city population is growing.",55
+ml_subreddit,grow,growing,"Some flash-charts also have animation effects (bounce effect, growing effect) and offer users a possibility to export the chart as an image.",10
+ml_subreddit,grow,grew,"Over the last 13 years though, I've learned python and other languages mostly the hard way, but I've also done a ton of reading academic textbooks because that's how I grew up and learned music theory.",35
+ml_subreddit,grow,grow,"I don't know where it makes more sense to create classes, when to split my script to two or more files and things like that, as my projects grow in size i get the feeling that my code is like a giant with glass legs one little thing goes wrong and the whole thing colapses and sometimes i have to rewrite whole sections just to make it work.",31
+ml_subreddit,grow,grows,It grows and grows and grows.,1
+ml_subreddit,grow,grows,It grows and grows and grows.,3
+ml_subreddit,grow,grows,It grows and grows and grows.,5
+ml_subreddit,grow,grow,"Being so new, I am just trying to learn and grow.",11
+ml_subreddit,grow,grow,I really can’t wait for the opportunity to focus on this stuff full time and really begin to grow.,20
+ml_subreddit,grow,growing,Hope us growing better!.I'm a few weeks into my journey learning Python.,2
+ml_subreddit,grow,grow,"and so fare this place has actualy helped me grow so quickly and i just wanted to say thanks   
+
+
+it's nice to be a part of something positive like this and i look forward to the day where my knowlidge aand experience can help some1 on their journey  
+
+
+don't give up on yourselves guys... you can do it.I was wondering whether you guys keep a handy cheat sheet when y'all code.",9
+ml_subreddit,grow,grow,"I am also extremely good at copy and pasting ;)
+
+Had anyone got any basic project ideas that will build me into being able to grow and expand both my python and basic MySQL knowledge?",26
+ml_subreddit,grow,growing,Guys add me to your friend list if you are interested in helping each other and growing together.😀 Hoping some Dms.So these are the projects that i was able to finish over the last year.,16
+ml_subreddit,grow,grown,"We're 7 grown up individuals who celebrate Christmas together and to limit the stress we decided that each individual only buys one present, to one person.",3
+ml_subreddit,grow,grow,They should grow into the hundreds.,2
+ml_subreddit,grow,grow,It will help you grow MUCH FASTER than any tutorial or youtube videos or whatever.,4
+ml_subreddit,grow,grow,I want to grow!,3
+ml_subreddit,grow,growing,I want to be there for my kid growing up.,8
+ml_subreddit,grow,growing,"It's still early, but I've already made three pull requests and I'm definitely excited to be a big part of a small, (but fast growing) company!",30
+ml_subreddit,grow,grow,I'm trying to learn and grow by posting my bigger projects here.,6
+ml_subreddit,grow,growing,"I am a Chef, and for 40-60 hours a week, I am on my feet sweating, running around trying to ""cut the grass"" but it's always growing faster than my metaphorical \*mower\* can handle.",32
+ml_subreddit,grow,grow,"Most of the people here will already know all of this already as it's pretty basic, but it was so fundamental for me to grow exponentially as a programmer and I had to express it!.Just wrote my first simple [Python script](https://github.com/seismatica/automate/blob/master/pdf_reorder/reorder.py) after a month doing boring problems in online courses.",26
+ml_subreddit,grow,grow,"From my understanding it's not ""Pythonic"" , but it can be more efficient when working with larger data sets as you don't have to constantly grow the list.",29
+ml_subreddit,grow,grown,Just in five days our community has grown from 0 to 6.1k members.,7
+ml_subreddit,grow,grows,I noticed that the mean of weights for each linear layer always grows and always slowly.,12
+ml_subreddit,grow,growing,"I am diving into second year of my graduate studies \(most of my knowledge about data science has been in the past 7 months and I have tried covering a lot of topics, so now i wanted to focus on just one\) and now I feel i could concentrate on one of these growing fields using deep learning.",57
+ml_subreddit,grow,grown,I’ve grown to learn that there is huge potential in applying Machine learning and AI to aerospace products/manufacturing.,3
+ml_subreddit,grow,growing,"My brand is growing its market share in each of these three segments, but because Trucks and Motorcycles (which I have a weak market share of) are growing much faster than Cars (which I have a high market share of) overall I am losing market share.",3
+ml_subreddit,grow,growing,"My brand is growing its market share in each of these three segments, but because Trucks and Motorcycles (which I have a weak market share of) are growing much faster than Cars (which I have a high market share of) overall I am losing market share.",30
+ml_subreddit,grow,growing,Would be nice to have something visually pleasing and easy to understand - which will hopefully help to spread the knowledge of the gross and growing disparity of wealth between the rich and the rest of us.,25
+ml_subreddit,grow,grow,"Most states, the electors may just pick a president despite popular vote..I'm interested in how things have changed over the past ~60 years in terms of what kids want to be when they grow up.",37
+ml_subreddit,grow,grow,"I am just beginning tracking my meditation, so it will obviously grow as time goes on!",12
+ml_subreddit,grow,grow,It needs to fit on an A4 sheet and be fun to fill in and watch grow towards completion.,16
+ml_subreddit,grow,grew,Our managment grew fond of them quite quickly and we want to make them a standard tool.,2
+ml_subreddit,grow,grow,"Admittedly, this might be a temporary solution, because the number of PMs will grow, as will the # of programs.",15
+ml_subreddit,grow,grown,"I completely changed course, spoke with a grown up (i.e.",8
+ml_subreddit,grow,growing,I've done some research on data science and apparently Python seems to be growing faster in the industry and in academia alike.,14
+ml_subreddit,grow,grow,"If any of you have significant experience with this already, and would love to help out all of us, please let me know and I'd honestly be happy to have you!.https://www.bls.gov/ooh/fastest-growing.htm
+
+Statisticians are expected to grow by 34%, and have a 2016 median pay of $80,500.",42
+ml_subreddit,grow,grow,"Mathematicians are expected to grow by 30% and have a 2016 median pay of $105,810.",4
+ml_subreddit,grow,grow,I enjoy the analytics side and would like to continue to grow in my knowledge of coding as well.,11
+ml_subreddit,grow,grow,“AI” as we know it did not grow out of the statistics community.,9
+ml_subreddit,grow,grow,"*if at any point all remaining players don’t achieve a total above 17.5, having used their three rolls, in the same round, then it’s a one tie/all tie situation and the game continues with no one being eliminated
+
+As you can see, the pot can grow to a large amount quickly and the decision to fold or buy additional rolls becomes more difficult to determine.",54
+ml_subreddit,grow,growing,"......The questions and messages brought from my cert post, my growing subscribers on my master data management series...
+
+How much interest is there to have a series dedicated to a cert.",12
+ml_subreddit,grow,grow,"***The advice I have been given is to first get a job as a data analyst***, then as I am working I can continue to grow my database skills and go elsewhere such as database development.",32
+ml_subreddit,grow,grow,"I have to grow into this role, I feel like an imposter.",3
+ml_subreddit,grow,grow,"I guess my reason for posting this is just to let the community know where I’m at, and ask for any encouragement and insight into how to go about feeling as if I’ve earned this promotion and how to competently grow into it.",45
+ml_subreddit,grow,grow,"What are y'all's thoughts on getting the mods to create a stickied post so the community can post and grow a central ""database"" of helpful resources for the SQL newcomers?",20
+ml_subreddit,grow,grow,"Also, what is a good entry level job that will grow reinforce what I know and help me grow?",11
+ml_subreddit,grow,grow,"Also, what is a good entry level job that will grow reinforce what I know and help me grow?",19
+ml_subreddit,grow,grow,"The username is ""Neuromancer420""  [Username data found here](https://redditmetis.com/user/neuromancer420)  
+>  
+>The most frequently used words in their online posts are the following:  
+>  
+>Ai, human, humans, step, agi, mind, brain, experience, time, universe, energy, back, intelligence, people, point, create, nature, consciousness, long, feel, make, conversation, machine, understand, imagine, question, creating, data, part, library, body, directly, fourth, complex, humanity, good, find, interact, future, things, agency, box, important, sixth, life, love, minds, form, sounds, idea, place, process, reddit, game, pure, nice, interesting, work, state, sense, access, greater, answer, problem, power, robot, agree, network, matter, works, system, continue, reality, ability, function, conscious, send, outcome, end, experiences, world, great, room, marriage, post, thing, reason, video, combined, powers, cease, rights, lot, relationship, thinking, challenge, play, thought, black, past, pretty, wo, attempt, years, hope, computer, china, making, original, information, books, utility, man, hard, powerful, choices, big, start, developing, amount, meaning, steps, survive, TRUE, brains, interfaces, default, happen, created, similar, season, show, technology, science, mode, comprehend, ultimately, networks, open, small, called, talking, makes, artificial, working, interested, live, average, describe, bad, made, remember, real, model, change, basically, beings, neural, perception, ways, difficult, general, increase, grow, population, entire, base, singularity, lives, large, learn, physical, run, year, quickly, weird, choose, put, extremely, simply, knowledge, tony, michele, massive, death, revolution, biopsychosocial, creation, connected, program, hole, dangerous, top, times, processes, realities, exist, purpose, travel  
+>  
+>Ok GPT-3, that was the list.",360
+ml_subreddit,grow,grow,He works there for 7 years before starting to grow concerned about the effects of AI on humanity.,9
+ml_subreddit,grow,growing,"Known for his work in computer science, mathematics, and theoretical physics, Wolfram announced this week that he may have found a path that leads to a fundamental theory of physics, and that it is “beautiful.”
+
+Read more: [Stephen Wolfram: The Path to a Fundamental Theory of Physics May Begin With a Hypergraph](https://medium.com/syncedreview/stephen-wolfram-the-path-to-a-fundamental-theory-of-physics-may-begin-with-a-hypergraph-c1fd124b6e62).Elsevier publications have been delayed so I have posted a preprint of my paper:
+
+The Perception–Action Hierarchy and its Implementation Using Binons (Binary Neurons)
+
+It's online at my website: http://www.adaptroninc.com/BasicPage/p-hierarchy
+
+Binons form a growing feedforward neural network.....Hello guys, I'm very fascinated for the ideia of replicate the neural architeture (even being rudimentary comparatively), but I actually interested in how the mathematics is important in this research field, beacause I see a lot tutorials teachin things like: ""how to make a neural networks for recognition of cats using that model"" and do not explain the background this algorithms(proofs mathematics of how it works).",107
+ml_subreddit,grow,GROW,"In other words, I'd like to GROW a neural network, perhaps randomly, in iterative cycles.",8
+ml_subreddit,grow,grow,"I want to write a test suite for this function and I want to grow a neural network, iteratively, until it passes the test suite.",14
+ml_subreddit,grow,grows,"Current SGD-based algorithms suffer from either a high computational cost that exponentially grows with number of GCN layers, or a large space requirement for keeping the entire graph and the embedding of each node in memory.",12
+ml_subreddit,grow,growing,"We have a growing list of online and offline methods including:
+
+* No API
+* Javascript overlays
+* Rendering to images
+* Printing it all out, scanning it, faxing it and then scanning it again (yes, this has happened)
+* Snail mail a hard drive (people still do this too)
+
+What methods of data obfuscation have you used or encountered?",3
+ml_subreddit,grow,grown,The sad part about today was when I found out the food being grown could not be used outside the farm and had to be incinerated.,13
+ml_subreddit,burst,bursts,Also note that AlphaStar's effective APM bursts are sometimes higher than both players.,7
+ml_subreddit,burst,burst,"There is a burst of 800 APM but it only lasts a fraction of a second and is most likely resulted from spam clicking, which I will be discussing shortly.",3
+ml_subreddit,burst,bursts,"While arguably the fastest human player is able to sustain an impressive 500 APM, AlphaStar had bursts going up to 1500+.",17
+ml_subreddit,burst,bursts,These inhuman 1000+ APM bursts sometimes lasted for 5 second stretches and were full of meaningful actions.,4
+ml_subreddit,burst,bursts,[Another engagement in game 4](https://www.youtube.com/watch?v=cUTMhmVh1qs&t=2h11m32s) had bursts going up to a dizzying 1500+ APM.,17
+ml_subreddit,burst,bursts,One of the commentators points out how the average APM is still acceptable but it is quite clear that the sustained bursts are way higher than what a human could do.,21
+ml_subreddit,burst,burst,* It is incredibly unlikely that no one in Deepmind's Starcraft AI team questioned that burst APM of 1500+ was possible for a human player to replicate.,16
+ml_subreddit,burst,bursts,At this point the AI is not allowed to have superhuman bursts of speed we saw in the demonstration.,11
+ml_subreddit,burst,burst,"**
+* **Maximum burst APM over a short period of time.",6
+ml_subreddit,burst,bursts,"** Even if the speed bursts of the bot were capped, it could still perform almost instantaneous actions at some point during the time slice it was currently occupying and still perform in an inhuman way.",6
+ml_subreddit,burst,burst,AlphaStars maximum burst APM has originally been restricted to closely resemble how fast a human spam clicks.,2
+ml_subreddit,burst,bursts,"*
+
+In order to speed up development they change APM restrictions to allow high bursts.",14
+ml_subreddit,burst,bursts,"*
+
+At first glance it looks reasonable to someone with a shallow understanding of Starcraft, but it allows for the superhuman bursts of speed we discussed earlier as well as the superhuman mouse precision.",22
+ml_subreddit,burst,burst,The neat little effect this has is that TLO's APM's upper tail is masking AlphaStars burst APM and making it look reasonable to people who are not familiar with Starcraft.,17
